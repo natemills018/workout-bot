@@ -2,10 +2,11 @@ import { Client, GatewayIntentBits, Collection, Events } from "discord.js";
 import fs from "node:fs";
 import path from "node:path";
 import config from "./config";
+import { startWeatherScheduler } from "./services/weatherScheduler";
 
 type ExtendedClient = Client & { commands: Collection<unknown, unknown> };
 
-export const client = new Client({ intents: [GatewayIntentBits.GuildMessages] }) as ExtendedClient;
+export const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages] }) as ExtendedClient;
 client.commands = new Collection();
 
 const foldersPath = path.join(__dirname, "commands");
@@ -26,8 +27,9 @@ for (const folder of commandFolders) {
     }
 }
 
-client.once(Events.ClientReady, (client) => {
+client.once(Events.ClientReady, (readyClient) => {
     console.log(`Bot is live at ${new Date().toLocaleString()}`);
+    startWeatherScheduler(readyClient);
 });
 
 client.on(Events.InteractionCreate, async (interaction) => {
