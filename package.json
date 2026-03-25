@@ -1,12 +1,11 @@
 {
-    "name": "discord-weather",
+    "name": "workout-bot",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "ts-node src/server.ts",
-        "deploy": "ts-node scripts/deploy-commands.ts"
+        "dev": "ts-node src/server.ts"
     },
     "keywords": [],
     "author": "",

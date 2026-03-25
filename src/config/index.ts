@@ -10,15 +10,6 @@ const discord = {
     guild_id: process.env.DISCORD_GUILD_ID as string,
 };
 
-const weather = {
-    apiKey: process.env.OPENWEATHER_API_KEY as string,
-    defaultCity: process.env.WEATHER_DEFAULT_CITY || "Birmingham",
-    defaultState: process.env.WEATHER_DEFAULT_STATE || "AL",
-    channelId: process.env.WEATHER_CHANNEL_ID as string,
-    cronSchedule: process.env.WEATHER_CRON_SCHEDULE || "0 7 * * *",
-};
-
 export default {
     discord,
-    weather,
 };

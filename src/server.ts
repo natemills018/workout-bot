@@ -2,7 +2,6 @@ import { Client, GatewayIntentBits, Collection, Events } from "discord.js";
 import fs from "node:fs";
 import path from "node:path";
 import config from "./config";
-import { startWeatherScheduler } from "./services/weatherScheduler";
 
 type ExtendedClient = Client & { commands: Collection<unknown, unknown> };
 
@@ -29,7 +28,6 @@ for (const folder of commandFolders) {
 
 client.once(Events.ClientReady, (readyClient) => {
     console.log(`Bot is live at ${new Date().toLocaleString()}`);
-    startWeatherScheduler(readyClient);
 });
 
 client.on(Events.InteractionCreate, async (interaction) => {
