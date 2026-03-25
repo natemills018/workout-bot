@@ -16,19 +16,32 @@ function capitalizeDescription(description: string): string {
     return description.replace(/\b\w/g, (char) => char.toUpperCase());
 }
 
+function getConditionEmoji(conditionId: number): string {
+    if (conditionId >= 200 && conditionId < 300) return "thunderstorm";
+    if (conditionId >= 300 && conditionId < 400) return "drizzle";
+    if (conditionId >= 500 && conditionId < 600) return "rain";
+    if (conditionId >= 600 && conditionId < 700) return "snow";
+    if (conditionId >= 700 && conditionId < 800) return "haze";
+    if (conditionId === 800) return "clear skies";
+    if (conditionId > 800) return "cloudy";
+    return "";
+}
+
 export function buildWeatherEmbed(data: WeatherData): EmbedBuilder {
     const iconUrl = `https://openweathermap.org/img/wn/${data.icon}@2x.png`;
+    const condition = getConditionEmoji(data.conditionId);
+
+    const description = [
+        `# ${data.temperature}°F`,
+        `**${capitalizeDescription(data.description)}** — ${condition}`,
+        "",
+        `Feels like **${data.feelsLike}°F** | Humidity **${data.humidity}%** | Wind **${data.windSpeed} mph**`,
+    ].join("\n");
 
     return new EmbedBuilder()
-        .setTitle(`${data.city}, ${data.state}`)
-        .setDescription(capitalizeDescription(data.description))
+        .setAuthor({ name: `${data.city}, ${data.state}` })
+        .setDescription(description)
         .setThumbnail(iconUrl)
         .setColor(getEmbedColor(data.conditionId))
-        .addFields(
-            { name: "Temperature", value: `${data.temperature}°F`, inline: true },
-            { name: "Feels Like", value: `${data.feelsLike}°F`, inline: true },
-            { name: "Humidity", value: `${data.humidity}%`, inline: true },
-            { name: "Wind", value: `${data.windSpeed} mph`, inline: true },
-        )
         .setTimestamp();
 }
