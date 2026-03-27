@@ -75,5 +75,44 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-27T13:40:26.582Z",
+    "plan": {
+      "title": "Upper Body Push & Weighted Vest Conditioning",
+      "focus": "Horizontal push strength and steady-state weighted cardio",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "4 min Walking Treadmill (gradual incline increase)",
+            "2 rounds: 10 Push-ups, 15 Seated Scapular Retractions using light plates",
+            "1 min Dynamic Chest Stretch",
+            "1 min Seated Arm Circles"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Bench Press — 5 sets x 8 reps @ moderate weight (rest 90 sec)",
+            "Seated Dumbbell Shoulder Press — 3 sets x 12 reps @ 25 lbs (must remain seated for ceiling clearance)",
+            "Seated Dumbbell Lateral Raises — 3 sets x 15 reps @ 15 lbs"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "20 lb Weighted Vest Power Walk",
+            "Treadmill settings: 3.2 - 3.6 mph @ 6.0% incline",
+            "Focus on nasal breathing and maintaining an upright posture throughout"
+          ]
+        }
+      ]
+    }
   }
 ]

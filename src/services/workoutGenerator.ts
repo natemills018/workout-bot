@@ -3,7 +3,8 @@ import config from "../config";
 import { UserProfile, WorkoutPlan } from "../types/workout";
 
 const genAI = new GoogleGenerativeAI(config.gemini.apiKey);
-const model = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
+const primaryModel = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
+const fallbackModel = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite-preview" });
 
 const SYSTEM_PROMPT = `You are a strength and conditioning coach generating daily workout plans.
 
@@ -102,13 +103,15 @@ function buildUserPrompt(profile?: UserProfile | null, recentWorkouts: WorkoutPl
     return parts.join(" ");
 }
 
-export async function generateWorkout(profile?: UserProfile | null, recentWorkouts: WorkoutPlan[] = []): Promise<WorkoutPlan> {
+async function callModel(model: ReturnType<GoogleGenerativeAI["getGenerativeModel"]>, prompt: string): Promise<string> {
     const result = await model.generateContent({
-        contents: [{ role: "user", parts: [{ text: buildUserPrompt(profile, recentWorkouts) }] }],
+        contents: [{ role: "user", parts: [{ text: prompt }] }],
         systemInstruction: { role: "model", parts: [{ text: SYSTEM_PROMPT }] },
     });
+    return result.response.text().trim();
+}
 
-    const text = result.response.text().trim();
+function parseWorkoutResponse(text: string): WorkoutPlan {
     const cleaned = text.replace(/```json\s*/g, "").replace(/```\s*/g, "");
 
     try {
@@ -120,5 +123,22 @@ export async function generateWorkout(profile?: UserProfile | null, recentWorkou
             totalDuration: "~60 min",
             sections: [{ name: "Full Workout", duration: "60 min", exercises: [text] }],
         };
+    }
+}
+
+export async function generateWorkout(profile?: UserProfile | null, recentWorkouts: WorkoutPlan[] = []): Promise<WorkoutPlan> {
+    const prompt = buildUserPrompt(profile, recentWorkouts);
+
+    try {
+        const text = await callModel(primaryModel, prompt);
+        return parseWorkoutResponse(text);
+    } catch (error: unknown) {
+        const status = (error as { status?: number }).status;
+        if (status === 503 || status === 429) {
+            console.log(`Primary model unavailable (${status}), falling back to flash-lite...`);
+            const text = await callModel(fallbackModel, prompt);
+            return parseWorkoutResponse(text);
+        }
+        throw error;
     }
 }

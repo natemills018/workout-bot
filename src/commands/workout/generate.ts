@@ -2,26 +2,7 @@ import { SlashCommandBuilder, ChatInputCommandInteraction } from "discord.js";
 import { generateWorkout } from "../../services/workoutGenerator";
 import { getProfile } from "../../services/profileStore";
 import { getRecentWorkouts, saveWorkout } from "../../services/workoutHistory";
-import { WorkoutPlan } from "../../types/workout";
-
-function formatWorkoutText(plan: WorkoutPlan): string {
-    const lines: string[] = [
-        `**${plan.title}**`,
-        `_${plan.focus}_`,
-        `Total: ${plan.totalDuration}`,
-        "",
-    ];
-
-    for (const section of plan.sections) {
-        lines.push(`__${section.name}__ (${section.duration})`);
-        for (const exercise of section.exercises) {
-            lines.push(`• ${exercise}`);
-        }
-        lines.push("");
-    }
-
-    return lines.join("\n");
-}
+import { buildWorkoutEmbed } from "../../utils/workoutEmbed";
 
 export default {
     data: new SlashCommandBuilder()
@@ -30,11 +11,25 @@ export default {
 
     async execute(interaction: ChatInputCommandInteraction) {
         await interaction.deferReply();
+
         const profile = getProfile(interaction.user.id);
         const recent = getRecentWorkouts(interaction.user.id);
-        const plan = await generateWorkout(profile, recent);
-        saveWorkout(interaction.user.id, plan);
-        const text = formatWorkoutText(plan);
-        await interaction.editReply(text);
+
+        try {
+            const plan = await generateWorkout(profile, recent);
+            saveWorkout(interaction.user.id, plan);
+            const embed = buildWorkoutEmbed(plan, profile?.displayName);
+            await interaction.editReply({ embeds: [embed] });
+        } catch (error: unknown) {
+            console.error("Workout generation failed:", error);
+
+            const message = error instanceof Error ? error.message : "Unknown error";
+
+            if (message.includes("429") || message.includes("quota")) {
+                await interaction.editReply("Gemini API rate limit hit. Try again in a minute.");
+            } else {
+                await interaction.editReply("Something went wrong generating your workout. Check the logs.");
+            }
+        }
     },
 };
