@@ -10,6 +10,17 @@ const discord = {
     guild_id: process.env.DISCORD_GUILD_ID as string,
 };
 
+const workout = {
+    channelId: process.env.WORKOUT_CHANNEL_ID as string,
+    cronSchedule: process.env.WORKOUT_CRON_SCHEDULE || "0 5 * * 1-6",
+};
+
+const gemini = {
+    apiKey: process.env.GEMINI_API_KEY as string,
+};
+
 export default {
     discord,
+    workout,
+    gemini,
 };

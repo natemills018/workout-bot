@@ -1,0 +1,79 @@
+[
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-27T02:17:21.417Z",
+    "plan": {
+      "title": "Posterior Strength & Weighted Intervals",
+      "focus": "Barbell deadlift foundation followed by a weighted vest and bike conditioning blend.",
+      "totalDuration": "50 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min Light BikeErg (low resistance)",
+            "2 rounds: 10 Cat-Cows, 10 Bird-Dogs, 15 Glute Bridges",
+            "2 sets: 5 empty Barbell Deadlifts focusing on hinge movement"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "22 min",
+          "exercises": [
+            "Barbell Deadlift — 5 sets x 5 reps @ moderate weight (rest 120 sec)",
+            "Seated Dumbbell Lateral Raises — 3 sets x 15 reps @ 15-20 lbs (rest 60 sec)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "EMOM 20 (Every Minute on the Minute for 20 minutes):",
+            "Minute 1: 45 seconds BikeErg (High Intensity)",
+            "Minute 2: 45 seconds Weighted Vest Walk (Treadmill at 3.0-3.5 mph, 3% incline)",
+            "Repeat cycle 10 times total"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-27T02:40:55.480Z",
+    "plan": {
+      "title": "Anterior Strength & BikeErg Intervals",
+      "focus": "Lower body push and seated vertical press paired with metabolic conditioning",
+      "totalDuration": "50 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "Walking Treadmill — 4 min (progressive pace)",
+            "Seated Shoulder Circles — 15 reps forward/back",
+            "Bodyweight Squats — 15 reps",
+            "World's Greatest Stretch — 5 reps per side"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "22 min",
+          "exercises": [
+            "Barbell Back Squat — 4 sets x 8 reps @ moderate weight (rest 90 sec)",
+            "Seated Barbell Overhead Press — 3 sets x 10 reps @ moderate weight (rest 60 sec)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "BikeErg Interval Circuit — 6 rounds:",
+            "1 min High-Intensity Ride (Hard Effort)",
+            "1 min DB Goblet Squats (25 lb DB — Continuous Movement)",
+            "1 min Full Rest / Slow Pedal"
+          ]
+        }
+      ]
+    }
+  }
+]
