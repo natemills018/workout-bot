@@ -114,5 +114,84 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-27T14:26:34.607Z",
+    "plan": {
+      "title": "Lower Body Volume & BikeErg Sprints",
+      "focus": "Lower hypertrophy focusing on high-volume squats and posterior chain paired with high-intensity bike intervals.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "4 min Walking Treadmill (progressive pace)",
+            "2 rounds: 10 Bodyweight Cossack Squats",
+            "2 rounds: 15 Hip Bridges (bodyweight)",
+            "2 rounds: 10 Bird-Dogs per side",
+            "1 min 90/90 Hip Switches"
+          ]
+        },
+        {
+          "name": "Strength (Lower Hypertrophy)",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Back Squat — 3 sets x 12 reps @ 55-65% 1RM (Rest 90 sec)",
+            "Barbell Romanian Deadlift — 3 sets x 12 reps @ moderate weight (Rest 90 sec)",
+            "Barbell Hip Thrusts (off bench) — 3 sets x 15 reps (Rest 60 sec)",
+            "Dumbbell Goblet Lunges — 2 sets x 12 reps per leg @ 25 lbs (Rest 60 sec)"
+          ]
+        },
+        {
+          "name": "Conditioning (HIIT)",
+          "duration": "20 min",
+          "exercises": [
+            "BikeErg HIIT: 2 min Moderate Pace (Warm-up)",
+            "BikeErg HIIT: 12 rounds of 30 sec Sprint (Max Effort) / 45 sec Recovery (Low Cadence)",
+            "BikeErg HIIT: 3 min Easy Spin (Cool down)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-27T14:52:16.722Z",
+    "plan": {
+      "title": "Lower Body Hypertrophy and Incline Power Intervals",
+      "focus": "High-volume anterior-chain hypertrophy paired with weighted incline HIIT.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "Walking Treadmill — 4 min (gradual pace increase to brisk walk)",
+            "Alternating Reverse Lunges (Bodyweight) — 15 reps total",
+            "Seated Leg Extensions (on bench, bodyweight squeeze) — 20 reps",
+            "Ankle Rotations and Calf Stretches — 2 min"
+          ]
+        },
+        {
+          "name": "Strength (Hypertrophy Focus)",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Front Squats — 4 sets x 12 reps @ moderate weight (Rest 90s between sets, 3 min before next movement)",
+            "DB Bulgarian Split Squats — 3 sets x 15 reps per leg @ 25 lb DBs (Rest 90s between sets, 3 min before next movement)"
+          ]
+        },
+        {
+          "name": "Conditioning (HIIT)",
+          "duration": "22 min",
+          "exercises": [
+            "Weighted Vest Incline Intervals (Wear 20 lb vest) — 10 rounds: 45s Power Walk at 10% incline / 45s Slow Walk at 0% incline",
+            "BikeErg Cool Down — 5 min (low resistance, HR descending below 120 bpm)",
+            "Seated Quad and Hamstring Stretch — 2 min"
+          ]
+        }
+      ]
+    }
   }
 ]

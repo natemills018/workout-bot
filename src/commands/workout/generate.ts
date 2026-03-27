@@ -1,5 +1,5 @@
 import { SlashCommandBuilder, ChatInputCommandInteraction } from "discord.js";
-import { generateWorkout } from "../../services/workoutGenerator";
+import { generateWorkout, getTodaysFocus } from "../../services/workoutGenerator";
 import { getProfile } from "../../services/profileStore";
 import { getRecentWorkouts, saveWorkout } from "../../services/workoutHistory";
 import { buildWorkoutEmbed } from "../../utils/workoutEmbed";
@@ -10,6 +10,12 @@ export default {
         .setDescription("Generate a workout plan"),
 
     async execute(interaction: ChatInputCommandInteraction) {
+        const focus = getTodaysFocus();
+        if (focus === null) {
+            await interaction.reply("It's Sunday — rest day. Recover and come back stronger tomorrow.");
+            return;
+        }
+
         await interaction.deferReply();
 
         const profile = getProfile(interaction.user.id);

@@ -21,11 +21,26 @@ HARD CONSTRAINTS:
 - LOW CEILINGS: NO standing overhead movements. Seated on bench or floor only.
 - 60-minute max per session including warm-up.
 - DB weight limited to 25 lbs — use for accessory work only.
+- REST PERIODS: 90 seconds between sets, 2-3 minutes between different movements. Always specify rest periods clearly (e.g. "Rest 90s between sets, 2 min before next movement").
 
-WORKOUT STRUCTURE (every session):
+WEEKLY SPLIT:
+- Monday: Heavy Lower (squat focus)
+- Tuesday: Upper Push/Pull
+- Wednesday: Zone 2 Cardio
+- Thursday: Heavy Upper (bench focus)
+- Friday: Lower Hypertrophy + HIIT
+- Saturday: Zone 2 Cardio
+- Sunday: Rest day
+
+WORKOUT STRUCTURE:
+For strength days (Mon/Tue/Thu/Fri):
 1. Warm-up / stretch (5-10 min)
 2. Strength piece (15-25 min, moderate weight)
 3. Conditioning piece (15-25 min, HIIT or Zone 2 cardio)
+
+For Zone 2 days (Wed/Sat):
+1. Warm-up / stretch (5-10 min)
+2. Sustained Zone 2 cardio (35-45 min, heart rate 120-140 bpm, using BikeErg, treadmill walk, weighted vest walk, or outdoor movement)
 
 Respond with ONLY valid JSON matching this exact schema — no markdown, no code fences:
 {
@@ -41,8 +56,22 @@ Respond with ONLY valid JSON matching this exact schema — no markdown, no code
   ]
 }`;
 
+const WEEKLY_SPLIT: Record<string, string | null> = {
+    Monday: "Heavy Lower — squat-focused strength with moderate accessory work",
+    Tuesday: "Upper Push/Pull — bench and row variations with upper body accessories",
+    Wednesday: "Zone 2 Cardio — sustained low-intensity steady-state cardio (heart rate 120-140 bpm)",
+    Thursday: "Heavy Upper — bench-focused strength with pressing and pulling compounds",
+    Friday: "Lower Hypertrophy + HIIT — higher-rep leg work paired with high-intensity intervals",
+    Saturday: "Zone 2 Cardio — sustained low-intensity steady-state cardio (heart rate 120-140 bpm)",
+    Sunday: null,
+};
+
 function getDayOfWeek(): string {
     return new Date().toLocaleDateString("en-US", { weekday: "long" });
+}
+
+export function getTodaysFocus(): string | null {
+    return WEEKLY_SPLIT[getDayOfWeek()] ?? null;
 }
 
 function summarizeHistory(recentWorkouts: WorkoutPlan[]): string {
@@ -66,7 +95,12 @@ function buildUserPrompt(profile?: UserProfile | null, recentWorkouts: WorkoutPl
     const day = getDayOfWeek();
     const history = summarizeHistory(recentWorkouts);
 
+    const focus = WEEKLY_SPLIT[day];
     const parts: string[] = [`Today is ${day}.`];
+
+    if (focus) {
+        parts.push(`Today's programming: ${focus}. Follow this focus for the session.`);
+    }
 
     if (profile) {
         parts.push(
