@@ -193,5 +193,46 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-27T23:21:17.048Z",
+    "plan": {
+      "title": "Lower Body Hypertrophy & Engine Build",
+      "focus": "High-volume barbell leg work paired with a weighted-vest and BikeErg metcon.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (Low resistance, Zone 1 pace)",
+            "2 rounds: 15 Glute Bridges, 10 Bird-Dogs per side, 20 Dead Bugs (slow and controlled)",
+            "1 round: 10 Empty Barbell Squats, 10 Empty Barbell Good Mornings"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "22 min",
+          "exercises": [
+            "Barbell Back Squat — 4 sets x 12 reps @ 135-185 lbs or ~60% 1RM (Rest 90s between sets, 3 min before next movement)",
+            "Barbell Romanian Deadlift — 3 sets x 12 reps @ 135-155 lbs (Rest 90s between sets, 3 min before next movement)"
+          ]
+        },
+        {
+          "name": "Conditioning & Core",
+          "duration": "25 min",
+          "exercises": [
+            "16-Minute AMRAP (As Many Rounds As Possible):",
+            "15 Calories BikeErg (High Intensity)",
+            "12 DB Goblet Squats @ 50 lb DB",
+            "20 Alternating Reverse Lunges (Wear 20 lb Weighted Vest)",
+            "20 Weighted Russian Twists @ 25 lb DB",
+            "15 Hollow Rocks",
+            "Rest 60s between AMRAP rounds to maintain power output (Rest 3 min after total time expires)"
+          ]
+        }
+      ]
+    }
   }
 ]

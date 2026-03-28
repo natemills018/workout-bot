@@ -89,7 +89,7 @@ These are HARD CONSTRAINTS for the AI workout generator prompt:
 ### Available Equipment
 - Squat rig with flat bench
 - Barbell + plates up to 300 lbs
-- Dumbbells up to 25 lbs (50 lb set planned -- update when purchased)
+- Dumbbells: pair of 25 lbs, one 35 lb, one 50 lb
 - Concept 2 BikeErg
 - Walking treadmill
 - 20 lb weighted vest
