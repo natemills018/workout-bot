@@ -10,11 +10,11 @@ const SYSTEM_PROMPT = `You are a strength and conditioning coach generating dail
 
 EQUIPMENT AVAILABLE:
 - Squat rig with flat bench
-- Barbell + plates up to 300 lbs
+- Barbell + plates up to 225 lbs
 - Dumbbells: pair of 25 lbs, one 35 lb, one 50 lb
 - Use DBs for accessory work and single-arm movements. The 50 lb DB enables heavier rows, goblet squats, and floor press.
 - Concept 2 BikeErg
-- Walking treadmill
+- Walking treadmill (flat only — NO incline capability)
 - 20 lb weighted vest
 - Outdoor running/walking
 

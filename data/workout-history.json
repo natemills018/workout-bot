@@ -234,5 +234,144 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-28T20:06:37.851Z",
+    "plan": {
+      "title": "Saturday Mixed-Modality Zone 2 & Core",
+      "focus": "Low-intensity steady-state cardio (LISS) with a weighted vest and BikeErg to maintain HR 120-140 bpm.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up & Movement Prep",
+          "duration": "8 min",
+          "exercises": [
+            "4 min Walking Treadmill (gradual pace increase to brisk walk)",
+            "2 rounds: 10 Floor T-Spine Rotations/side, 15 Bird-Dogs, 15 Glute Bridges",
+            "1 min Seated Hamstring Stretch"
+          ]
+        },
+        {
+          "name": "Zone 2 Cardio Block 1: Weighted Vest Walk",
+          "duration": "20 min",
+          "exercises": [
+            "20 min Continuous Walk with 20 lb Weighted Vest (Treadmill 2-3% incline or Outdoors)",
+            "Maintain heart rate between 120-130 bpm",
+            "Rest 2 min between movements (remove vest, transition to BikeErg)"
+          ]
+        },
+        {
+          "name": "Zone 2 Cardio Block 2: BikeErg",
+          "duration": "25 min",
+          "exercises": [
+            "25 min Sustained BikeErg (Dampener setting 3-5)",
+            "Target heart rate 130-140 bpm; steady cadence of 80-90 RPM",
+            "Rest 2 min before core finisher"
+          ]
+        },
+        {
+          "name": "Core Finisher & Mobility",
+          "duration": "5 min",
+          "exercises": [
+            "3 rounds: 30s Forearm Plank, 15 Seated Knee Tucks (on bench), 15 Dead Bugs",
+            "Rest 30s between sets",
+            "Pigeon Pose — 1 min per side"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-30T13:11:07.222Z",
+    "plan": {
+      "title": "Monday Heavy Lower: Squat Strength & Metabolic Power",
+      "focus": "Building maximal strength in the back squat followed by a high-intensity core and lower body metcon.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "4 min Walking Treadmill (gradual incline to 3.0%)",
+            "2 rounds: 10 Bodyweight Squats (slow tempo), 15 Hollow Rocks, 20 Mountain Climbers",
+            "1 round: 10 Empty Barbell Squats, 10 Empty Barbell Good Mornings",
+            "2 min Ankle and Hip Mobilization (Pigeon stretch and deep squat hold)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Back Squat — 5 sets x 5 reps @ 75-85% effort (Heavier than previous 12-rep session)",
+            "Rest 90s between sets, 3 min before conditioning"
+          ]
+        },
+        {
+          "name": "Conditioning (Metcon)",
+          "duration": "18 min",
+          "exercises": [
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "15 Calorie BikeErg",
+            "12 Goblet Squats (50 lb DB)",
+            "15 Butterfly Sit-ups (Ab-focused)",
+            "9 Burpees over the Dumbbell",
+            "Rest 2 min after completion of AMRAP"
+          ]
+        },
+        {
+          "name": "Cool Down / Accessory Finish",
+          "duration": "5 min",
+          "exercises": [
+            "3 sets x 30 second Plank (Weighted with 20 lb vest if possible)",
+            "Rest 60s between planks",
+            "2 min Quad and Glute stretching"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-30T20:51:13.927Z",
+    "plan": {
+      "title": "Heavy Lower: Linear Strength & Weighted Engine",
+      "focus": "Maximal squat strength (5x5) followed by a weighted vest metabolic conditioning circuit.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min Walking Treadmill (brisk pace, 3.0 - 3.5 mph)",
+            "2 rounds: 10 90/90 Hip Switches, 15 Plank Shoulder Taps, 10 World's Greatest Stretch per side",
+            "2 rounds: 10 Empty Barbell Squats (3-sec descent), 10 Barbell Good Mornings (Empty Bar)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Back Squat — 5 sets x 5 reps @ 75-80% 1RM (Heavy load, maintaining form)",
+            "Rest 90s between sets, 3 min before next movement"
+          ]
+        },
+        {
+          "name": "Conditioning (Metcon)",
+          "duration": "20 min",
+          "exercises": [
+            "Wear 20 lb Weighted Vest for the entire AMRAP",
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "15 Calories BikeErg",
+            "12 Box Step-ups (Step up to flat bench, alternating legs)",
+            "9 DB Goblet Squats (use 50 lb DB)",
+            "15 Hanging Leg Raises (or Floor Leg Raises if ceiling is too low to hang)",
+            "Rest 90s after AMRAP completion",
+            "Finisher: 2 minutes total Plank hold (accumulated time)"
+          ]
+        }
+      ]
+    }
   }
 ]

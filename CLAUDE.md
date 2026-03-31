@@ -88,10 +88,10 @@ These are HARD CONSTRAINTS for the AI workout generator prompt:
 
 ### Available Equipment
 - Squat rig with flat bench
-- Barbell + plates up to 300 lbs
+- Barbell + plates up to 225 lbs
 - Dumbbells: pair of 25 lbs, one 35 lb, one 50 lb
 - Concept 2 BikeErg
-- Walking treadmill
+- Walking treadmill (flat only — NO incline capability)
 - 20 lb weighted vest
 - Outdoor running/walking (spring onward)
 
