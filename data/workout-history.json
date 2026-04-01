@@ -373,5 +373,169 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-31T11:19:50.743Z",
+    "plan": {
+      "title": "Tuesday: Upper Push/Pull Strength & Engine",
+      "focus": "Upper body pressing and pulling volume with high-intensity metabolic core finisher",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (easy pace)",
+            "2 rounds: 10 Scapular Pull-ups (on rig), 10 Band-pull-aparts (or reverse flyes with no weight), 10 Cat-Cow stretches",
+            "2 min dynamic arm circles and chest openers"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Flat Bench Press: 4 sets x 8 reps @ 65-70% 1RM (Rest 90s between sets, 2 min before next movement)",
+            "Single-Arm DB Row (using 50 lb DB): 4 sets x 10 reps per side (Rest 90s between sets, 2 min before next movement)",
+            "Seated DB Overhead Press (on bench): 3 sets x 12 reps @ 25 lb pair (Rest 90s between sets)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "15-minute AMRAP: 10 Burpees, 15 BikeErg Calories, 10 Weighted Vest Push-ups, 20 Russian Twists (using 25 lb DB), 10 Dumbbell Renegade Rows (using 35 lb DB)"
+          ]
+        },
+        {
+          "name": "Finisher",
+          "duration": "7 min",
+          "exercises": [
+            "3 rounds (not for time): 30 second Plank, 15 V-ups, 15 Superman extensions (Rest 60s between rounds)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-31T11:22:36.780Z",
+    "plan": {
+      "title": "Tuesday: Upper Push/Pull Strength & Engine",
+      "focus": "Upper body pressing and pulling strength with a focus on vertical push/pull mechanics and a high-intensity conditioning finish.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (easy pace)",
+            "2 rounds: 10 seated floor press (no weight), 10 DB prone reverse flyes (25 lb pair), 15 hollow rocks, 1 min cat-cow stretch"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Seated DB Shoulder Press (on bench): 4 sets x 8 reps @ 35 lb DBs (Rest 90s between sets, 2 min before next movement)",
+            "Barbell Bent-Over Row: 4 sets x 8 reps @ 135-155 lbs (Rest 90s between sets, 2 min before next movement)",
+            "Single-Arm DB Row (on bench): 3 sets x 10 reps per side @ 50 lb DB (Rest 90s between sets)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "27 min",
+          "exercises": [
+            "EMOM 20 Minutes: Min 1: 12 BikeErg Calories, Min 2: 15 Burpees, Min 3: 20 Weighted Russian Twists (using 25 lb DB), Min 4: 15 DB Floor Press (using 25 lb pair), Min 5: Rest"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-03-31T20:26:19.087Z",
+    "plan": {
+      "title": "Upper Body Push/Pull: Horizontal Focus",
+      "focus": "Heavy barbell bench press paired with heavy single-arm rows and a power-based metcon.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (moderate pace)",
+            "2 rounds: 15 Scapular Push-ups, 10 Yoga Push-ups, 15 Superman extensions, 20 Hollow Rocks",
+            "1 round: 10 Empty Barbell Bench Press (slow tempo), 10 Empty Barbell Rows"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Flat Bench Press: 5 sets x 5 reps @ 155-185 lbs (Rest 90s between sets, 3 min before next movement)",
+            "Single-Arm DB Row: 4 sets x 10 reps @ 50 lb DB (Rest 90s between sets, 3 min before next movement)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "17 min",
+          "exercises": [
+            "12-Minute AMRAP (As Many Rounds As Possible):",
+            "20 Double-unders (or 40 Single-unders)",
+            "10 DB Snatches (35 lb DB - alternate arms, catch at shoulder due to low ceiling)",
+            "5 Barbell Power Cleans (115 lbs)",
+            "15 V-ups",
+            "Rest 90s between rounds is NOT applicable for AMRAP; move consistently."
+          ]
+        },
+        {
+          "name": "Cool Down & Core Finisher",
+          "duration": "5 min",
+          "exercises": [
+            "2 min Plank Hold",
+            "1 min Doorway Chest Stretch",
+            "2 min Puppy Pose (Shoulder/Upper Back Stretch)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-01T12:46:48.715Z",
+    "plan": {
+      "title": "Wednesday Zone 2 Aerobic Capacity",
+      "focus": "Sustained aerobic conditioning maintaining a heart rate of 120-140 bpm, utilizing varied modalities to build cardiovascular endurance without high-intensity spikes.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "5 min light BikeErg (easy pace, nasal breathing)",
+            "2 min Cat-Cow and bird-dog sequence",
+            "3 min light treadmill walk (flat, 3.0 mph)"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "15 min BikeErg (steady cadence, 120-140 bpm HR)",
+            "15 min Weighted Vest Walk (treadmill, 3.2 mph, 20 lb vest)",
+            "10 min outdoor brisk walking (no vest, nose-breathing focus)"
+          ]
+        },
+        {
+          "name": "Core & Cool Down",
+          "duration": "10 min",
+          "exercises": [
+            "3 sets of: 45-second plank hold, 15 V-ups, 20 Russian twists (no weight)",
+            "5 min static stretching: child's pose, pigeon stretch, and seated hamstring stretch"
+          ]
+        }
+      ]
+    }
   }
 ]

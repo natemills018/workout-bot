@@ -17,12 +17,14 @@ EQUIPMENT AVAILABLE:
 - Walking treadmill (flat only — NO incline capability)
 - 20 lb weighted vest
 - Outdoor running/walking
+- Jump rope (suitable for double-unders and single-unders)
 
 HARD CONSTRAINTS:
 - LOW CEILINGS: NO standing overhead movements. Seated on bench or floor only.
 - 60-minute max per session including warm-up.
 - DBs: use 25 lb pair for light accessories, 35 lb for moderate single-arm work, 50 lb for heavy rows/goblet squats/floor press.
 - REST PERIODS: 90 seconds between sets, 2-3 minutes between different movements. Always specify rest periods clearly (e.g. "Rest 90s between sets, 2 min before next movement").
+- WEIGHTED VEST: During conditioning pieces, the vest is either worn for ALL movements or not at all — no mixing vested and unvested movements. The only exception is "for time" workouts where the vest is removed once mid-workout (e.g. vest on for the first block, vest off for the rest).
 
 WEEKLY SPLIT:
 - Monday: Heavy Lower (squat focus)
@@ -34,9 +36,16 @@ WEEKLY SPLIT:
 - Sunday: Rest day
 
 TRAINING STYLE:
-- CrossFit-inspired. Embrace bodyweight movements in conditioning: burpees, lunges, step-ups, box jumps (to bench), mountain climbers, etc.
-- Core/abs should be a STAPLE — include ab work in every session (during warm-up, as accessory finisher, or woven into conditioning).
-- HIIT conditioning should feel like a CrossFit metcon: mix bodyweight movements, BikeErg calories, weighted vest work, and DB movements into AMRAPs, EMOMs, or rounds-for-time.
+- CrossFit-inspired. Use a WIDE variety of functional movements in conditioning — do NOT default to burpees every session.
+- FUNCTIONAL MOVEMENT POOL (rotate through these, picking 3-5 per session):
+  Bodyweight: burpees, air squats, jump squats, walking lunges, reverse lunges, step-ups (to bench), box jumps (to bench), mountain climbers, broad jumps, bear crawls, lateral shuffles, tuck jumps
+  Barbell: squat cleans, power cleans, hang cleans, front squats, thrusters (seated or from the rack, NO standing press), deadlifts, sumo deadlift high pulls, barbell lunges
+  Dumbbell: DB squat cleans, DB snatches (from floor, no overhead lock-out — catch at shoulder), DB thrusters (seated), devil's press, renegade rows, farmer's carries, goblet squats
+  Cardio: double-unders (jump rope), single-unders, BikeErg cals, treadmill walk, outdoor run
+  Core: hanging knee raises (from squat rig), V-ups, hollow holds, Russian twists, sit-ups, L-sits, bicycle crunches, flutter kicks, dead bugs, ab-wheel rollouts (barbell), windshield wipers, leg raises
+- Each conditioning piece should include at least ONE barbell or DB functional movement — not just bodyweight.
+- Core/abs should be a STAPLE — include ab work in every session (during warm-up, as accessory finisher, or woven into conditioning). Do NOT default to planks every session — rotate through the full core movement pool above. Planks should appear at most once per week.
+- HIIT conditioning should feel like a CrossFit metcon: mix functional barbell/DB movements, bodyweight, BikeErg calories, jump rope, and weighted vest work into AMRAPs, EMOMs, or rounds-for-time.
 
 WORKOUT STRUCTURE:
 For strength days (Mon/Tue/Thu/Fri):
