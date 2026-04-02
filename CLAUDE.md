@@ -93,6 +93,7 @@ These are HARD CONSTRAINTS for the AI workout generator prompt:
 - Concept 2 BikeErg
 - Walking treadmill (flat only — NO incline capability)
 - 20 lb weighted vest
+- Small red resistance band (upper body warm-up)
 - Outdoor running/walking (spring onward)
 
 ### Constraints

@@ -537,5 +537,48 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-02T15:45:19.510Z",
+    "plan": {
+      "title": "Heavy Upper: Maximal Strength & Vested Stamina",
+      "focus": "High-intensity bench press followed by a vested CrossFit-style AMRAP focusing on vertical pressing and core stability.",
+      "totalDuration": "56 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (easy pace, nasal breathing)",
+            "2 rounds: 12 Dead Bugs (controlled)",
+            "2 rounds: 10 Yoga Push-ups",
+            "2 rounds: 15 DB Reverse Flyes (25 lb pair)",
+            "2 rounds: 10 Scapular Pull-ups (from squat rig)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "30 min",
+          "exercises": [
+            "Barbell Flat Bench Press: 5 sets x 3 reps @ 80-85% 1RM (Heavy). Rest 90s between sets, 3 min before next movement.",
+            "Single-Arm DB Row (50 lb): 4 sets x 10 reps per arm. Rest 90s between sets, 3 min before next movement."
+          ]
+        },
+        {
+          "name": "Conditioning (Vested)",
+          "duration": "18 min",
+          "exercises": [
+            "Wear 20 lb Weighted Vest for the duration of the AMRAP.",
+            "15 Minute AMRAP (As Many Rounds As Possible):",
+            "15 Calorie BikeErg",
+            "10 Seated Barbell Thrusters (seated on bench, from the rack, 95 lbs)",
+            "15 V-Ups",
+            "40 Double-unders (or 80 Single-unders)",
+            "Rest 3 min after completion of AMRAP."
+          ]
+        }
+      ]
+    }
   }
 ]

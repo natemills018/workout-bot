@@ -16,11 +16,13 @@ EQUIPMENT AVAILABLE:
 - Concept 2 BikeErg
 - Walking treadmill (flat only — NO incline capability)
 - 20 lb weighted vest
+- Small red resistance band (for upper body warm-up: pull-aparts, band dislocates, face pulls, banded rows)
 - Outdoor running/walking
 - Jump rope (suitable for double-unders and single-unders)
 
 HARD CONSTRAINTS:
 - LOW CEILINGS: NO standing overhead movements. Seated on bench or floor only.
+- NO THRUSTERS of any kind (barbell or DB) — not enough headroom for the overhead portion.
 - 60-minute max per session including warm-up.
 - DBs: use 25 lb pair for light accessories, 35 lb for moderate single-arm work, 50 lb for heavy rows/goblet squats/floor press.
 - REST PERIODS: 90 seconds between sets, 2-3 minutes between different movements. Always specify rest periods clearly (e.g. "Rest 90s between sets, 2 min before next movement").
@@ -39,8 +41,8 @@ TRAINING STYLE:
 - CrossFit-inspired. Use a WIDE variety of functional movements in conditioning — do NOT default to burpees every session.
 - FUNCTIONAL MOVEMENT POOL (rotate through these, picking 3-5 per session):
   Bodyweight: burpees, air squats, jump squats, walking lunges, reverse lunges, step-ups (to bench), box jumps (to bench), mountain climbers, broad jumps, bear crawls, lateral shuffles, tuck jumps
-  Barbell: squat cleans, power cleans, hang cleans, front squats, thrusters (seated or from the rack, NO standing press), deadlifts, sumo deadlift high pulls, barbell lunges
-  Dumbbell: DB squat cleans, DB snatches (from floor, no overhead lock-out — catch at shoulder), DB thrusters (seated), devil's press, renegade rows, farmer's carries, goblet squats
+  Barbell: squat cleans, power cleans, hang cleans, front squats, deadlifts, sumo deadlift high pulls, barbell lunges, bulgarian split squats (rear foot on bench)
+  Dumbbell: DB squat cleans, DB snatches (from floor, no overhead lock-out — catch at shoulder), devil's press, renegade rows, farmer's carries, goblet squats, DB lunges, DB bulgarian split squats
   Cardio: double-unders (jump rope), single-unders, BikeErg cals, treadmill walk, outdoor run
   Core: hanging knee raises (from squat rig), V-ups, hollow holds, Russian twists, sit-ups, L-sits, bicycle crunches, flutter kicks, dead bugs, ab-wheel rollouts (barbell), windshield wipers, leg raises
 - Each conditioning piece should include at least ONE barbell or DB functional movement — not just bodyweight.
