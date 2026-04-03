@@ -580,5 +580,54 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-03T13:30:17.487Z",
+    "plan": {
+      "title": "Lower Hypertrophy & Vested Engine",
+      "focus": "Higher-rep leg volume paired with a vested metcon focusing on posterior chain and midline stability.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min BikeErg at easy pace",
+            "2 rounds: 15 Air Squats, 10 Banded Good Mornings (red band), 15 Hollow Rocks, 10 alternating bird-dogs",
+            "1 round: 10 Empty Barbell Squats (3-second eccentric/descent)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Back Squat: 4 sets x 10 reps @ 135-165 lbs (Rest 90s between sets, 3 min before next movement)",
+            "DB Romanian Deadlift (hold 50 lb DB with both hands): 3 sets x 12 reps (Rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "Conditioning (HIIT)",
+          "duration": "18 min",
+          "exercises": [
+            "Wear 20 lb Weighted Vest for the duration of the workout",
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "15 Calorie BikeErg",
+            "12 DB Power Cleans (pair of 25 lb DBs - from floor to shoulder)",
+            "20 Walking Lunges (Bodyweight + Vest)",
+            "15 V-ups",
+            "50 Single-Unders (Jump Rope)"
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "duration": "5 min",
+          "exercises": [
+            "2 min Puppy Pose (stretch shoulders and spine)",
+            "1 min Pigeon Stretch per side"
+          ]
+        }
+      ]
+    }
   }
 ]
