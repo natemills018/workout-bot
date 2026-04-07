@@ -629,5 +629,91 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-05T02:46:22.283Z",
+    "plan": {
+      "title": "Saturday Aerobic Flush: Vested Ruck & Core",
+      "focus": "Sustained Zone 2 cardio (120-140 bpm) focusing on aerobic endurance and mid-line stability using the weighted vest.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (easy pace, nasal breathing only)",
+            "2 rounds: 15 Red Band Pull-aparts",
+            "2 rounds: 10 Red Band Face Pulls",
+            "2 rounds: 15 Air Squats (controlled tempo)",
+            "1 min Cat-Cow stretch"
+          ]
+        },
+        {
+          "name": "Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "Wear 20 lb Weighted Vest for the entire duration.",
+            "40 min Sustained Movement: Outdoor walk or Treadmill walk (Flat, 3.2-3.8 mph).",
+            "Target Heart Rate: 120-140 bpm. If HR exceeds 140, slow the pace.",
+            "Focus on consistent breathing and upright posture under the weight of the vest."
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "7 min",
+          "exercises": [
+            "Remove Weighted Vest before starting.",
+            "3 Rounds for Quality:",
+            "15 Sit-ups",
+            "15 V-ups",
+            "20 Russian Twists (bodyweight)",
+            "10 Barbell Ab-Wheel Rollouts (kneeling)",
+            "Rest 60s between rounds, 2 min before finishing."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-06T21:03:16.399Z",
+    "plan": {
+      "title": "Heavy Lower: Linear Squat Strength & Posterior Chain Capacity",
+      "focus": "High-intensity back squats for strength, followed by a posterior-heavy metcon.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min BikeErg (moderate pace)",
+            "2 rounds: 15 Red Band Pull-aparts, 10 Red Band Face Pulls, 15 Air Squats, 10 alternating Bird-Dogs",
+            "2 rounds: 15 Hollow Rocks, 10 Empty Barbell Squats (3-second pause at bottom)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Back Squat: 5 sets x 5 reps @ 185-210 lbs (Rest 90s between sets, 3 min before next movement)",
+            "Note: Focus on maintaining a neutral spine and driving through the mid-foot."
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "23 min",
+          "exercises": [
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "10 Barbell Deadlifts @ 155-185 lbs",
+            "20 Calorie BikeErg",
+            "15 Step-ups (to bench, bodyweight only)",
+            "30 Double Unders (or 60 Single Unders)",
+            "15 V-ups (Core staple)",
+            "Rest 2 min after completion of AMRAP"
+          ]
+        }
+      ]
+    }
   }
 ]
