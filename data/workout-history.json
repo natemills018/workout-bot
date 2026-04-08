@@ -715,5 +715,86 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-07T13:28:23.701Z",
+    "plan": {
+      "title": "Upper Body Push/Pull & Midline Stamina",
+      "focus": "Vertical/horizontal pull strength with seated pressing and a high-intensity snatch-based metcon.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "5 min BikeErg (easy pace, focus on nasal breathing)",
+            "2 rounds: 15 Red Band Pull-aparts",
+            "2 rounds: 10 Red Band Face Pulls",
+            "2 rounds: 12 Dead Bugs (slow and controlled)",
+            "1 round: 10 Scapular Push-ups + 10 Cat-Cows"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Bent Over Row: 4 sets x 10 reps @ 135-155 lbs (Rest 90s between sets, 3 min before next movement)",
+            "Seated Barbell Strict Press (Bench at 90 deg): 4 sets x 8 reps @ 95-115 lbs (Rest 90s between sets, 3 min before next movement)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "12 Minute AMRAP (As Many Rounds As Possible):",
+            "12 DB Alternating Snatches @ 50 lb (From floor, catch at shoulder due to low ceiling)",
+            "20 Bicycle Crunches",
+            "40 Double-Unders (or 80 Single-Unders)",
+            "10 DB Renegade Rows @ 25 lb pair (5 reps per side, push-up included every rep)",
+            "Rest 90s between rounds is not applicable for AMRAP; move consistently. Rest 2 min after completion."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-08T14:51:14.987Z",
+    "plan": {
+      "title": "Midweek Aerobic Base & Core Development",
+      "focus": "Sustained Zone 2 cardiovascular conditioning (HR 120-140 bpm) and midline stability.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg (easy pace, nasal breathing)",
+            "2 rounds: 15 Red Band Pull-aparts",
+            "2 rounds: 10 Red Band Dislocates",
+            "2 rounds: 12 alternating Bird-Dogs",
+            "2 rounds: 15 Cat-Cow stretches"
+          ]
+        },
+        {
+          "name": "Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "20 min BikeErg (Maintain 120-140 bpm, nasal breathing only)",
+            "Rest 2 min to transition to treadmill",
+            "18 min Treadmill Walk (Flat, brisk pace 3.5-4.0 mph, maintain 120-140 bpm)"
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "7 min",
+          "exercises": [
+            "3 rounds for quality: 15 V-ups, 30 Flutter Kicks, 20 Bicycle Crunches",
+            "Rest 90s between sets"
+          ]
+        }
+      ]
+    }
   }
 ]
