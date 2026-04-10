@@ -796,5 +796,55 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-10T01:40:37.680Z",
+    "plan": {
+      "title": "Heavy Upper: Bench Capacity & Posterior Pull",
+      "focus": "Heavy barbell bench press paired with heavy single-arm rows and a high-volume pulling/core metcon.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min BikeErg (easy pace, nasal breathing)",
+            "2 rounds: 15 Red Band Pull-aparts",
+            "2 rounds: 10 Red Band Dislocates",
+            "2 rounds: 20 Russian Twists (controlled bodyweight)",
+            "2 rounds: 10 Scapular Push-ups",
+            "1 round: 10 Empty Barbell Bench Press (3-second eccentric)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Bench Press: 5 sets x 5 reps @ 175-205 lbs (Rest 90s between sets, 3 min before next movement)",
+            "Single Arm DB Row (Seated on bench): 4 sets x 10 reps per arm @ 50 lb DB (Rest 90s between sets, 3 min before next movement)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "18 min",
+          "exercises": [
+            "12-Minute AMRAP (As Many Rounds As Possible):",
+            "12 Barbell Sumo Deadlift High Pulls @ 95 lbs",
+            "15 V-ups",
+            "20 Walking Lunges (Bodyweight)",
+            "40 Double-unders (or 80 Single-unders)",
+            "Rest 3 min before finisher"
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "5 min",
+          "exercises": [
+            "3 sets: 30 seconds Bicycle Crunches / 30 seconds Hollow Hold (Rest 60s between sets)"
+          ]
+        }
+      ]
+    }
   }
 ]
