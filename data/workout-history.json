@@ -846,5 +846,49 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-11T00:54:53.894Z",
+    "plan": {
+      "title": "Lower Hypertrophy & Engine Density",
+      "focus": "Quad-dominant hypertrophy followed by a high-intensity metcon emphasizing explosive hip power and core stability.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min BikeErg (easy pace, focus on nasal breathing)",
+            "2 rounds: 15 Red Banded Rows (focus on scapular retraction)",
+            "2 rounds: 10 Red Band Dislocates (seated on bench due to ceiling height)",
+            "2 rounds: 10/10 Windshield Wipers (lying on floor, core control)",
+            "2 rounds: 15 Bodyweight Air Squats (slow tempo: 3s down, 1s pause)"
+          ]
+        },
+        {
+          "name": "Lower Body Hypertrophy",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Front Squats: 4 sets x 10 reps @ 135-155 lbs (Rest 90s between sets, 3 min before next movement)",
+            "Barbell Bulgarian Split Squats (rear foot on bench): 3 sets x 12 reps per leg @ 65-85 lbs (Rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "HIIT Conditioning (Metcon)",
+          "duration": "20 min",
+          "exercises": [
+            "AMRAP 14 Minutes (As Many Rounds As Possible):",
+            "15 Calorie BikeErg",
+            "12 Single-Arm DB Squat Cleans (50 lb DB, alternating arms each rep, catch at shoulder height)",
+            "20 Butterfly Sit-ups",
+            "40 Double-unders (or 80 Single-unders)",
+            "15 Jump Squats (Bodyweight)",
+            "Rest 2 min after AMRAP finishes",
+            "Finisher: 2 min Max Leg Raises (hanging from squat rig if height allows, otherwise lying floor leg raises)"
+          ]
+        }
+      ]
+    }
   }
 ]
