@@ -890,5 +890,45 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-12T01:24:47.388Z",
+    "plan": {
+      "title": "Saturday Aerobic Foundation & Vested Loading",
+      "focus": "Zone 2 sustained low-intensity steady-state cardio (HR 120-140 bpm) using the weighted vest for structural endurance.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min Jump Rope (Single unders, easy continuous pace)",
+            "2 rounds: 15 Red Band Pull-aparts",
+            "2 rounds: 10 Red Band Dislocates (seated on bench)",
+            "2 rounds: 15 Sit-ups",
+            "2 rounds: 12 alternating Bird-Dogs"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "40 min Outdoor Power Walk or Flat Treadmill Walk wearing 20 lb Weighted Vest",
+            "Maintain heart rate between 120-140 bpm (Zone 2)",
+            "Focus on nasal breathing only and maintaining upright posture throughout",
+            "Rest 2 min before starting next section"
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "Leg Raises (lying on floor): 2 sets x 15 reps (Rest 90s between sets, 2 min before next movement)",
+            "Ab-Wheel Rollouts (using empty barbell): 2 sets x 12 reps (Rest 90s between sets)"
+          ]
+        }
+      ]
+    }
   }
 ]
