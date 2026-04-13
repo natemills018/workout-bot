@@ -930,5 +930,48 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-13T12:48:38.232Z",
+    "plan": {
+      "title": "Monday: Heavy Squat Focus & Metcon",
+      "focus": "Heavy back squat strength foundation followed by a high-intensity interval metabolic conditioner featuring weighted vest movements and core stability.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg at easy recovery pace (nasal breathing only)",
+            "2 rounds: 15 Red Band pull-aparts",
+            "2 rounds: 10 Red Band dislocates (seated on bench)",
+            "2 rounds: 12 Flutter kicks (controlled cadence)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Back Squat: 5 sets x 5 reps @ 75-80% 1RM. Rest 2 min between sets.",
+            "DB Bulgarian Split Squats (rear foot on bench): 3 sets x 8 reps per leg @ 35 lb DB (holding at side). Rest 90s between sets."
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "27 min",
+          "exercises": [
+            "15-minute AMRAP (As Many Rounds As Possible) - NO VEST:",
+            "10 DB Goblet Squats @ 50 lb",
+            "15 Jump Rope Double-Unders (or 30 single-unders)",
+            "10 Hanging Knee Raises (from squat rig)",
+            "200m Outdoor Run (or 45s hard effort on BikeErg)",
+            "Rest 2 min after AMRAP.",
+            "5-minute EMOM (Every Minute on the Minute):",
+            "Minute 1-5: 12 Weighted Vest Air Squats (Vest worn for all 5 minutes)."
+          ]
+        }
+      ]
+    }
   }
 ]
