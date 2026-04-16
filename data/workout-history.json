@@ -1011,5 +1011,48 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-16T13:53:48.742Z",
+    "plan": {
+      "title": "Iron Press & Power Pull",
+      "focus": "Heavy Bench Press strength followed by a high-intensity power and upper-body engine metcon.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min BikeErg (easy pace, nasal breathing)",
+            "2 rounds: 15 Red Band Pull-aparts (seated on bench)",
+            "2 rounds: 10 Red Band Dislocates (seated on bench)",
+            "2 rounds: 20 Bicycle Crunches (slow and controlled)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Bench Press: 5 sets x 5 reps @ 75-80% 1RM (Max 225 lbs). Rest 90s between sets.",
+            "Rest 2 min before next movement.",
+            "Barbell Pendlay Rows: 4 sets x 8 reps (explosive pull to chest). Rest 90s between sets.",
+            "Rest 3 min before conditioning."
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "40 Jump Rope Single-unders",
+            "10 Barbell Power Cleans (115 lbs - catch at shoulders)",
+            "10 Single-arm DB Floor Press (50 lb DB - 5 reps per arm)",
+            "15 Hanging Knee Raises (from squat rig rig)",
+            "Score: total rounds + extra reps completed."
+          ]
+        }
+      ]
+    }
   }
 ]
