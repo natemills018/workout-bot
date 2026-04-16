@@ -973,5 +973,43 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-16T01:42:59.314Z",
+    "plan": {
+      "title": "Aerobic Threshold & Anterior Core",
+      "focus": "Zone 2 steady-state cardio to build aerobic base with a focus on core stability.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 min light BikeErg (nasal breathing only)",
+            "2 rounds: 15 Red Band Face Pulls (seated on bench)",
+            "2 rounds: 12 Dead Bugs (slow and controlled)",
+            "2 rounds: 10 Scapular Push-ups (on floor)"
+          ]
+        },
+        {
+          "name": "Zone 2 Cardio",
+          "duration": "42 min",
+          "exercises": [
+            "20 min BikeErg (maintain 120-140 bpm)",
+            "Rest 2 min before next movement",
+            "20 min Treadmill Walk (Flat, approx 3.2-3.8 mph, maintain 120-140 bpm)"
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "5 min",
+          "exercises": [
+            "3 sets: 12 V-Ups and 30s Hollow Hold",
+            "Rest 90s between sets"
+          ]
+        }
+      ]
+    }
   }
 ]
