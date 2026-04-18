@@ -1054,5 +1054,55 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-18T01:36:20.267Z",
+    "plan": {
+      "title": "Lower Body Volume and Vested Engine",
+      "focus": "High-rep lower hypertrophy followed by a vested CrossFit-style AMRAP focusing on posterior chain and anterior core.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min Jump Rope (Single-unders at easy pace)",
+            "2 rounds: 15 Red Band Pull-aparts (seated on bench)",
+            "2 rounds: 15 Red Band Face Pulls (seated on bench)",
+            "2 rounds: 15 V-ups (controlled tempo)"
+          ]
+        },
+        {
+          "name": "Lower Hypertrophy",
+          "duration": "20 min",
+          "exercises": [
+            "Barbell Bulgarian Split Squats (rear foot on bench): 3 x 10 per leg @ 75-95 lbs (Rest 90s between sets, 2 min before next movement)",
+            "Barbell Front Squats: 3 x 12 @ 95-135 lbs (focus on upright torso, rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "HIIT Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "Wear 20 lb Weighted Vest for the duration of the AMRAP.",
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "20 Double-unders (or 40 Single-unders)",
+            "10 Barbell Hang Power Cleans @ 95 lbs",
+            "15 Weighted Vest Walking Lunges (total steps)",
+            "20 Russian Twists (1-count, vest on)",
+            "Rest 3 minutes upon completion."
+          ]
+        },
+        {
+          "name": "Accessory Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "Dumbbell Farmer's Carry: 3 x 40 meters (use 50 lb DB in one hand, 35 lb in other; switch hands halfway. Rest 90s between sets)",
+            "30 Empty Barbell Glute Bridges (high rep pump to finish)"
+          ]
+        }
+      ]
+    }
   }
 ]
