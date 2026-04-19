@@ -1104,5 +1104,44 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-19T02:14:53.880Z",
+    "plan": {
+      "title": "Aerobic Capacity and Midline Control",
+      "focus": "Sustained Zone 2 steady-state cardio (target HR 120-140 bpm)",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 min light BikeErg (easy pace, nasal breathing only)",
+            "2 rounds: 15 Red Banded Rows (seated on bench) - Rest 90s between sets",
+            "2 rounds: 12 Hanging Knee Raises (from squat rig) - Rest 90s between sets",
+            "2 rounds: 20 Russian Twists (bodyweight) - Rest 90s between sets",
+            "Rest 2 min before starting cardio"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "45 min",
+          "exercises": [
+            "15 min BikeErg (Moderate pace, maintain 120-140 bpm)",
+            "15 min Treadmill Walk (Flat, 3.0-3.5 mph, maintain 120-140 bpm)",
+            "15 min Outdoor Walk or Light Jog (Maintain 120-140 bpm)",
+            "Rest 2 min before core finisher"
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "5 min",
+          "exercises": [
+            "3 rounds: 15 Leg Raises (lying on floor) - Rest 90s between sets"
+          ]
+        }
+      ]
+    }
   }
 ]
