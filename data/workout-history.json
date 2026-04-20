@@ -1143,5 +1143,43 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-20T15:44:51.422Z",
+    "plan": {
+      "title": "Monday Heavy Squat & Functional Metcon",
+      "focus": "Heavy Back Squat strength focus followed by a multi-modal CrossFit-style conditioning block with midline work.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg at easy pace",
+            "2 rounds: 15 Red Band Pull-aparts, 10 Band Dislocates (seated on bench)",
+            "2 rounds: 10 Air Squats, 10 Mountain Climbers"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Back Squat: 5 sets x 5 reps @ 75-80% 1RM (Rest 2 min between sets)",
+            "Cossack Squats: 3 sets x 8 reps per leg @ 25 lb DB (held in goblet position) (Rest 90s between sets, 2 min before conditioning)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "27 min",
+          "exercises": [
+            "AMRAP 20 min: 10 DB Goblet Squats (50 lb DB), 15 Box Jumps (to bench), 20 Double-Unders, 10 Windshield Wipers (lying on floor)",
+            "Constraint: Wear 20 lb weighted vest for the entire 20 min AMRAP",
+            "Rest 3 min before finishing core",
+            "3 sets: 15 Bicycle Crunches (Rest 90s between sets)"
+          ]
+        }
+      ]
+    }
   }
 ]
