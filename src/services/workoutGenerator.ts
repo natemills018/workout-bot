@@ -29,13 +29,20 @@ HARD CONSTRAINTS:
 - WEIGHTED VEST: During conditioning pieces, the vest is either worn for ALL movements or not at all — no mixing vested and unvested movements. The only exception is "for time" workouts where the vest is removed once mid-workout (e.g. vest on for the first block, vest off for the rest).
 
 WEEKLY SPLIT:
-- Monday: Heavy Lower (squat focus)
+- Monday: Heavy Lower — ALTERNATE weekly between Back Squat focus and Barbell Deadlift focus (conventional or sumo). Check recent workouts: if the last Monday was squat-focused, this Monday MUST be deadlift-focused, and vice versa.
 - Tuesday: Upper Push/Pull
 - Wednesday: Zone 2 Cardio
 - Thursday: Heavy Upper (bench focus)
-- Friday: Lower Hypertrophy + HIIT
+- Friday: Lower Hypertrophy + HIIT — the secondary barbell lift here should be whichever of squat/deadlift variations did NOT anchor Monday (e.g. if Monday was deadlifts, Friday can feature front squats; if Monday was squats, Friday can feature RDLs or stiff-leg deadlifts).
 - Saturday: Zone 2 Cardio
 - Sunday: Rest day
+
+DEADLIFT REQUIREMENT: A barbell deadlift variation (conventional, sumo, Romanian, or stiff-leg) MUST appear at least once per week as a primary or secondary strength movement — not just as a metcon filler.
+
+MOVEMENT-FREQUENCY CAP:
+- No single accessory movement may appear more than ONCE per 7-day window. This is a HARD rule.
+- Specifically rotate unilateral leg work across: Bulgarian split squats, walking lunges, reverse lunges, front-rack reverse lunges, DB goblet lunges, step-ups to bench, single-leg RDLs, Cossack squats. Bulgarian split squats should appear AT MOST once every 7-10 days.
+- If a given exercise appears in the RECENT WORKOUTS list below, do NOT program it again this session — pick a different movement from the pool.
 
 TRAINING STYLE:
 - CrossFit-inspired. Use a WIDE variety of functional movements in conditioning — do NOT default to burpees every session.
@@ -95,15 +102,16 @@ function summarizeHistory(recentWorkouts: WorkoutPlan[]): string {
     if (recentWorkouts.length === 0) return "";
 
     const summaries = recentWorkouts.map((w, i) => {
-        const exercises = w.sections
-            .flatMap((s) => s.exercises)
-            .slice(0, 4)
-            .join(", ");
+        const strengthOrMain = w.sections.filter((s) =>
+            /strength|hypertrophy|lower|upper|main/i.test(s.name),
+        );
+        const sections = strengthOrMain.length > 0 ? strengthOrMain : w.sections;
+        const exercises = sections.flatMap((s) => s.exercises).join("; ");
         return `  ${i + 1}. ${w.title} — ${exercises}`;
     });
 
     return [
-        "\nRECENT WORKOUTS (avoid repeating these focus areas and exercises):",
+        "\nRECENT WORKOUTS (DO NOT repeat any specific exercise listed below — rotate to a different movement from the pool):",
         ...summaries,
     ].join("\n");
 }

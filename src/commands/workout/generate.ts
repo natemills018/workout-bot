@@ -19,7 +19,7 @@ export default {
         await interaction.deferReply();
 
         const profile = getProfile(interaction.user.id);
-        const recent = getRecentWorkouts(interaction.user.id);
+        const recent = getRecentWorkouts(interaction.user.id, 7);
 
         try {
             const plan = await generateWorkout(profile, recent);
