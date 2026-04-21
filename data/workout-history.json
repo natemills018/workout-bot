@@ -1181,5 +1181,44 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-21T13:09:06.516Z",
+    "plan": {
+      "title": "Upper Push/Pull Strength & Engine",
+      "focus": "Upper body horizontal pushing and pulling strength followed by a high-intensity circuit incorporating functional movements.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "3 min BikeErg light pace",
+            "2 sets: 15 Red Band Pull-aparts",
+            "2 sets: 10 Red Band Dislocates (seated on bench)",
+            "2 sets: 15 Bicycle Crunches"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "DB Floor Press (50 lb DBs): 5 sets x 8 reps (Rest 90s between sets, 2 min before next movement)",
+            "Single-Arm DB Rows (35 lb DB): 4 sets x 10 reps per arm (Rest 90s between sets, 2 min before next movement)",
+            "Incline-style DB Bench Press (using 25 lb pair - perform seated on bench at 45 degree angle): 3 sets x 12 reps (Rest 90s between sets)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "27 min",
+          "exercises": [
+            "AMRAP 15 minutes: 10 DB Snatches from floor (35 lb DB - alternating, no overhead lock-out, catch at shoulder), 15 Box Jumps (to bench), 10 Renegade Rows (using 25 lb DBs), 20 Windshield Wipers (lying on floor).",
+            "Rest 3 min",
+            "Finisher: 3 rounds (not for time): 15 Mountain Climbers (each leg), 15 Sit-ups (Rest 60s between rounds)"
+          ]
+        }
+      ]
+    }
   }
 ]
