@@ -1220,5 +1220,45 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-22T18:16:36.250Z",
+    "plan": {
+      "title": "Vested Aerobic Capacity & Midline Stability",
+      "focus": "Zone 2 sustained low-intensity steady-state cardio (heart rate 120-140 bpm) using a weighted vest for increased caloric demand and postural control.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 rounds: 30 Red Band Pull-aparts (seated on bench)",
+            "2 rounds: 15 Red Band Dislocates (seated on bench)",
+            "2 rounds: 20 Bicycle Crunches (slow and controlled tempo)",
+            "2 rounds: 12 Bird-Dogs per side (focus on core bracing)"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "42 min",
+          "exercises": [
+            "42 min Outdoor Power Walk or Flat Treadmill Walk (approx. 3.4-3.9 mph) — wearing 20 lb weighted vest for the entire duration",
+            "Maintain heart rate between 120-140 bpm. Focus on rhythmic breathing and maintaining an upright posture despite the vest weight."
+          ]
+        },
+        {
+          "name": "Midline Accessory Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "Rest 2 min after cardio before starting core.",
+            "3 sets: 15 Sit-ups (standard bodyweight)",
+            "3 sets: 10 Barbell Ab-wheel rollouts (controlled descent)",
+            "3 sets: 40 Flutter kicks (20 per leg)",
+            "Rest 90s between sets."
+          ]
+        }
+      ]
+    }
   }
 ]
