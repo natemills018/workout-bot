@@ -1,44 +1,6 @@
 [
   {
     "discordId": "181102159885107200",
-    "date": "2026-03-27T02:17:21.417Z",
-    "plan": {
-      "title": "Posterior Strength & Weighted Intervals",
-      "focus": "Barbell deadlift foundation followed by a weighted vest and bike conditioning blend.",
-      "totalDuration": "50 min",
-      "sections": [
-        {
-          "name": "Warm-Up",
-          "duration": "8 min",
-          "exercises": [
-            "3 min Light BikeErg (low resistance)",
-            "2 rounds: 10 Cat-Cows, 10 Bird-Dogs, 15 Glute Bridges",
-            "2 sets: 5 empty Barbell Deadlifts focusing on hinge movement"
-          ]
-        },
-        {
-          "name": "Strength",
-          "duration": "22 min",
-          "exercises": [
-            "Barbell Deadlift — 5 sets x 5 reps @ moderate weight (rest 120 sec)",
-            "Seated Dumbbell Lateral Raises — 3 sets x 15 reps @ 15-20 lbs (rest 60 sec)"
-          ]
-        },
-        {
-          "name": "Conditioning",
-          "duration": "20 min",
-          "exercises": [
-            "EMOM 20 (Every Minute on the Minute for 20 minutes):",
-            "Minute 1: 45 seconds BikeErg (High Intensity)",
-            "Minute 2: 45 seconds Weighted Vest Walk (Treadmill at 3.0-3.5 mph, 3% incline)",
-            "Repeat cycle 10 times total"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "discordId": "181102159885107200",
     "date": "2026-03-27T02:40:55.480Z",
     "plan": {
       "title": "Anterior Strength & BikeErg Intervals",
@@ -1256,6 +1218,50 @@
             "3 sets: 10 Barbell Ab-wheel rollouts (controlled descent)",
             "3 sets: 40 Flutter kicks (20 per leg)",
             "Rest 90s between sets."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-23T15:48:39.323Z",
+    "plan": {
+      "title": "Heavy Upper: Close-Grip Strength & Explosive Engine",
+      "focus": "Triceps-dominant barbell pressing, supinated-grip pulling, and a high-intensity CrossFit metcon.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up & Midline",
+          "duration": "10 min",
+          "exercises": [
+            "3 min Jump Rope (Single-unders, steady pace)",
+            "2 rounds: 15 Seated Red Band Bicep Curls (seated on bench)",
+            "2 rounds: 15 Seated Red Band Tricep Extensions (seated on bench)",
+            "2 rounds: 20 Shoulder Taps (in high plank position)",
+            "3 sets: 10 Windshield Wipers (lying on floor, legs straight or tucked, rotate side to side) - Rest 60s between sets"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Close-Grip Bench Press: 5 sets x 6 reps @ 155-175 lbs (hands shoulder-width apart, focus on triceps drive). Rest 90s between sets, 2 min before next movement.",
+            "Barbell Bent Over Rows (Supinated/Underhand Grip): 4 sets x 10 reps @ 115-135 lbs (pull barbell to lower ribcage). Rest 90s between sets, 3 min before conditioning."
+          ]
+        },
+        {
+          "name": "Conditioning (Metcon)",
+          "duration": "23 min",
+          "exercises": [
+            "16 Minute AMRAP (As Many Rounds As Possible):",
+            "- 10 Alternating DB Snatches (50 lb DB, from floor to shoulder catch - NO overhead lockout)",
+            "- 15 Push-ups (Chest to floor)",
+            "- 12 Calorie BikeErg",
+            "- 30 Double-unders (or 60 Single-unders)",
+            "- 10 L-Sits (seated on floor, lift hips and feet off ground, hold for 2 seconds per rep)",
+            "Rest 2 min after completion.",
+            "Finisher: 3 sets: 30s Plank (Limit 1x per week) - Rest 60s between sets"
           ]
         }
       ]
