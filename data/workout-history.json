@@ -1,45 +1,6 @@
 [
   {
     "discordId": "181102159885107200",
-    "date": "2026-03-27T02:40:55.480Z",
-    "plan": {
-      "title": "Anterior Strength & BikeErg Intervals",
-      "focus": "Lower body push and seated vertical press paired with metabolic conditioning",
-      "totalDuration": "50 min",
-      "sections": [
-        {
-          "name": "Warm-Up",
-          "duration": "8 min",
-          "exercises": [
-            "Walking Treadmill — 4 min (progressive pace)",
-            "Seated Shoulder Circles — 15 reps forward/back",
-            "Bodyweight Squats — 15 reps",
-            "World's Greatest Stretch — 5 reps per side"
-          ]
-        },
-        {
-          "name": "Strength",
-          "duration": "22 min",
-          "exercises": [
-            "Barbell Back Squat — 4 sets x 8 reps @ moderate weight (rest 90 sec)",
-            "Seated Barbell Overhead Press — 3 sets x 10 reps @ moderate weight (rest 60 sec)"
-          ]
-        },
-        {
-          "name": "Conditioning",
-          "duration": "20 min",
-          "exercises": [
-            "BikeErg Interval Circuit — 6 rounds:",
-            "1 min High-Intensity Ride (Hard Effort)",
-            "1 min DB Goblet Squats (25 lb DB — Continuous Movement)",
-            "1 min Full Rest / Slow Pedal"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "discordId": "181102159885107200",
     "date": "2026-03-27T13:40:26.582Z",
     "plan": {
       "title": "Upper Body Push & Weighted Vest Conditioning",
@@ -1262,6 +1223,48 @@
             "- 10 L-Sits (seated on floor, lift hips and feet off ground, hold for 2 seconds per rep)",
             "Rest 2 min after completion.",
             "Finisher: 3 sets: 30s Plank (Limit 1x per week) - Rest 60s between sets"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-24T14:03:43.674Z",
+    "plan": {
+      "title": "Lower Hypertrophy & Engine Builder",
+      "focus": "High-volume leg work via RDLs and lunges, followed by a weighted vest CrossFit-style conditioning piece.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 min BikeErg easy pace",
+            "2 sets of 15 Red band dislocates (seated on bench)",
+            "2 sets of 15 Air squats (bodyweight)",
+            "2 sets of 10 V-ups (lying on floor)"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "22 min",
+          "exercises": [
+            "Barbell Romanian Deadlift (RDL): 4 sets x 10 reps @ 135-185 lbs (focus on hinge mechanics). Rest 90s between sets.",
+            "DB Reverse Lunges: 3 sets x 10 reps per leg @ 25 lb DBs (held at sides). Rest 90s between sets, 2 min before conditioning."
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "30 min",
+          "exercises": [
+            "Conditioning block (Wear 20 lb weighted vest for all movements): 5 Rounds for time of:",
+            "15 DB Goblet Squats (50 lb DB)",
+            "12 Walking Lunges (bodyweight)",
+            "20 Single-unders with jump rope",
+            "10 Windshield Wipers (lying on floor, holding onto squat rig uprights)",
+            "Rest 2 min",
+            "Finisher: 3 min AMRAP of BikeErg calories (Max effort, no vest)"
           ]
         }
       ]
