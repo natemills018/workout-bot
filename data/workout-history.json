@@ -1,45 +1,6 @@
 [
   {
     "discordId": "181102159885107200",
-    "date": "2026-03-27T13:40:26.582Z",
-    "plan": {
-      "title": "Upper Body Push & Weighted Vest Conditioning",
-      "focus": "Horizontal push strength and steady-state weighted cardio",
-      "totalDuration": "55 min",
-      "sections": [
-        {
-          "name": "Warm-Up",
-          "duration": "10 min",
-          "exercises": [
-            "4 min Walking Treadmill (gradual incline increase)",
-            "2 rounds: 10 Push-ups, 15 Seated Scapular Retractions using light plates",
-            "1 min Dynamic Chest Stretch",
-            "1 min Seated Arm Circles"
-          ]
-        },
-        {
-          "name": "Strength",
-          "duration": "25 min",
-          "exercises": [
-            "Barbell Bench Press — 5 sets x 8 reps @ moderate weight (rest 90 sec)",
-            "Seated Dumbbell Shoulder Press — 3 sets x 12 reps @ 25 lbs (must remain seated for ceiling clearance)",
-            "Seated Dumbbell Lateral Raises — 3 sets x 15 reps @ 15 lbs"
-          ]
-        },
-        {
-          "name": "Conditioning",
-          "duration": "20 min",
-          "exercises": [
-            "20 lb Weighted Vest Power Walk",
-            "Treadmill settings: 3.2 - 3.6 mph @ 6.0% incline",
-            "Focus on nasal breathing and maintaining an upright posture throughout"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "discordId": "181102159885107200",
     "date": "2026-03-27T14:26:34.607Z",
     "plan": {
       "title": "Lower Body Volume & BikeErg Sprints",
@@ -1265,6 +1226,42 @@
             "10 Windshield Wipers (lying on floor, holding onto squat rig uprights)",
             "Rest 2 min",
             "Finisher: 3 min AMRAP of BikeErg calories (Max effort, no vest)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-26T01:09:18.526Z",
+    "plan": {
+      "title": "Zone 2 Sustained Aerobic Development",
+      "focus": "Low-intensity steady-state (LISS) to improve aerobic base and recovery.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up & Midline",
+          "duration": "12 min",
+          "exercises": [
+            "15 Red Band Face Pulls (seated on bench) x 2 sets (Rest 90s between sets)",
+            "12 Dead Bugs per side x 2 sets (Rest 90s between sets)",
+            "30s Hollow Hold x 2 sets (Rest 90s between sets)",
+            "Rest 2 min before starting cardio"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "40 min Sustained BikeErg (Maintain heart rate 120-140 bpm. Focus on a steady cadence and nasal breathing throughout.)",
+            "Rest 2 min before core finisher"
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "8 min",
+          "exercises": [
+            "10 Windshield Wipers per side (lying on floor) x 3 sets (Rest 90s between sets)"
           ]
         }
       ]
