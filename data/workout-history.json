@@ -1,44 +1,6 @@
 [
   {
     "discordId": "181102159885107200",
-    "date": "2026-03-27T14:52:16.722Z",
-    "plan": {
-      "title": "Lower Body Hypertrophy and Incline Power Intervals",
-      "focus": "High-volume anterior-chain hypertrophy paired with weighted incline HIIT.",
-      "totalDuration": "55 min",
-      "sections": [
-        {
-          "name": "Warm-Up",
-          "duration": "8 min",
-          "exercises": [
-            "Walking Treadmill — 4 min (gradual pace increase to brisk walk)",
-            "Alternating Reverse Lunges (Bodyweight) — 15 reps total",
-            "Seated Leg Extensions (on bench, bodyweight squeeze) — 20 reps",
-            "Ankle Rotations and Calf Stretches — 2 min"
-          ]
-        },
-        {
-          "name": "Strength (Hypertrophy Focus)",
-          "duration": "25 min",
-          "exercises": [
-            "Barbell Front Squats — 4 sets x 12 reps @ moderate weight (Rest 90s between sets, 3 min before next movement)",
-            "DB Bulgarian Split Squats — 3 sets x 15 reps per leg @ 25 lb DBs (Rest 90s between sets, 3 min before next movement)"
-          ]
-        },
-        {
-          "name": "Conditioning (HIIT)",
-          "duration": "22 min",
-          "exercises": [
-            "Weighted Vest Incline Intervals (Wear 20 lb vest) — 10 rounds: 45s Power Walk at 10% incline / 45s Slow Walk at 0% incline",
-            "BikeErg Cool Down — 5 min (low resistance, HR descending below 120 bpm)",
-            "Seated Quad and Hamstring Stretch — 2 min"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "discordId": "181102159885107200",
     "date": "2026-03-27T23:21:17.048Z",
     "plan": {
       "title": "Lower Body Hypertrophy & Engine Build",
@@ -1270,6 +1232,47 @@
           "exercises": [
             "5 min gentle treadmill walk (no vest)",
             "5 min static stretching: couch stretch, pigeon pose, and hamstring reach"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-28T13:27:02.498Z",
+    "plan": {
+      "title": "Upper Body Push/Pull & Midline AMRAP",
+      "focus": "Horizontal pressing strength, explosive pulling, and core integration.",
+      "totalDuration": "57 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "2 rounds: 15 Seated Red Band Rows (attach band to rig at chest height)",
+            "2 rounds: 15 Seated Red Band Lat Pulldowns (attach band to top of rig)",
+            "2 rounds: 12 Hanging Knee Raises (controlled, no swinging)",
+            "2 rounds: 20 Mountain Climbers"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "27 min",
+          "exercises": [
+            "Barbell Bench Press (Standard Grip): 5 sets x 5 reps @ 165-185 lbs (Rest 90s between sets, 3 min before next movement)",
+            "Pendlay Rows (Barbell): 4 sets x 8 reps @ 115-135 lbs (Pronated grip, bar returns to floor each rep; Rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "10 DB Snatches (50 lb DB - pull from floor, no overhead lock-out, catch at shoulder; 5 per arm)",
+            "15 Push-ups (Standard bodyweight)",
+            "40 Jump Rope Single-unders",
+            "10 V-ups (Core focus)",
+            "Rest 2 minutes after the 15-minute clock ends."
           ]
         }
       ]
