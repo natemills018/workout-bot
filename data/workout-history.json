@@ -1,47 +1,6 @@
 [
   {
     "discordId": "181102159885107200",
-    "date": "2026-03-27T23:21:17.048Z",
-    "plan": {
-      "title": "Lower Body Hypertrophy & Engine Build",
-      "focus": "High-volume barbell leg work paired with a weighted-vest and BikeErg metcon.",
-      "totalDuration": "55 min",
-      "sections": [
-        {
-          "name": "Warm-Up",
-          "duration": "8 min",
-          "exercises": [
-            "3 min BikeErg (Low resistance, Zone 1 pace)",
-            "2 rounds: 15 Glute Bridges, 10 Bird-Dogs per side, 20 Dead Bugs (slow and controlled)",
-            "1 round: 10 Empty Barbell Squats, 10 Empty Barbell Good Mornings"
-          ]
-        },
-        {
-          "name": "Strength",
-          "duration": "22 min",
-          "exercises": [
-            "Barbell Back Squat — 4 sets x 12 reps @ 135-185 lbs or ~60% 1RM (Rest 90s between sets, 3 min before next movement)",
-            "Barbell Romanian Deadlift — 3 sets x 12 reps @ 135-155 lbs (Rest 90s between sets, 3 min before next movement)"
-          ]
-        },
-        {
-          "name": "Conditioning & Core",
-          "duration": "25 min",
-          "exercises": [
-            "16-Minute AMRAP (As Many Rounds As Possible):",
-            "15 Calories BikeErg (High Intensity)",
-            "12 DB Goblet Squats @ 50 lb DB",
-            "20 Alternating Reverse Lunges (Wear 20 lb Weighted Vest)",
-            "20 Weighted Russian Twists @ 25 lb DB",
-            "15 Hollow Rocks",
-            "Rest 60s between AMRAP rounds to maintain power output (Rest 3 min after total time expires)"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "discordId": "181102159885107200",
     "date": "2026-03-28T20:06:37.851Z",
     "plan": {
       "title": "Saturday Mixed-Modality Zone 2 & Core",
@@ -1273,6 +1232,45 @@
             "40 Jump Rope Single-unders",
             "10 V-ups (Core focus)",
             "Rest 2 minutes after the 15-minute clock ends."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-04-29T15:37:41.385Z",
+    "plan": {
+      "title": "Wednesday: Aerobic Threshold & Midline Complexity",
+      "focus": "Zone 2 Cardio — sustained low-intensity steady-state cardio (heart rate 120-140 bpm)",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "2 rounds: 50 Single-unders (Jump rope)",
+            "2 rounds: 15 Seated Red Band Rows (focus on scapular retraction)",
+            "2 rounds: 20 Russian Twists (bodyweight only, focus on rotation)",
+            "1 min calf stretch per side"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "40 min Sustained Outdoor Jog or Flat Treadmill Walk (approx. 3.5-4.2 mph)",
+            "Constraint: Unvested (no weighted vest for this session)",
+            "Target: Maintain heart rate between 120-140 bpm. Maintain nasal breathing to ensure intensity remains in Zone 2."
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "3 sets: 12 Hanging Knee Raises (performed from the squat rig, focus on slow eccentric)",
+            "3 sets: 15 V-ups (standard bodyweight)",
+            "Rest 90s between sets"
           ]
         }
       ]
