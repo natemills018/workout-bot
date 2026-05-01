@@ -1,53 +1,6 @@
 [
   {
     "discordId": "181102159885107200",
-    "date": "2026-03-28T20:06:37.851Z",
-    "plan": {
-      "title": "Saturday Mixed-Modality Zone 2 & Core",
-      "focus": "Low-intensity steady-state cardio (LISS) with a weighted vest and BikeErg to maintain HR 120-140 bpm.",
-      "totalDuration": "60 min",
-      "sections": [
-        {
-          "name": "Warm-Up & Movement Prep",
-          "duration": "8 min",
-          "exercises": [
-            "4 min Walking Treadmill (gradual pace increase to brisk walk)",
-            "2 rounds: 10 Floor T-Spine Rotations/side, 15 Bird-Dogs, 15 Glute Bridges",
-            "1 min Seated Hamstring Stretch"
-          ]
-        },
-        {
-          "name": "Zone 2 Cardio Block 1: Weighted Vest Walk",
-          "duration": "20 min",
-          "exercises": [
-            "20 min Continuous Walk with 20 lb Weighted Vest (Treadmill 2-3% incline or Outdoors)",
-            "Maintain heart rate between 120-130 bpm",
-            "Rest 2 min between movements (remove vest, transition to BikeErg)"
-          ]
-        },
-        {
-          "name": "Zone 2 Cardio Block 2: BikeErg",
-          "duration": "25 min",
-          "exercises": [
-            "25 min Sustained BikeErg (Dampener setting 3-5)",
-            "Target heart rate 130-140 bpm; steady cadence of 80-90 RPM",
-            "Rest 2 min before core finisher"
-          ]
-        },
-        {
-          "name": "Core Finisher & Mobility",
-          "duration": "5 min",
-          "exercises": [
-            "3 rounds: 30s Forearm Plank, 15 Seated Knee Tucks (on bench), 15 Dead Bugs",
-            "Rest 30s between sets",
-            "Pigeon Pose — 1 min per side"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "discordId": "181102159885107200",
     "date": "2026-03-30T13:11:07.222Z",
     "plan": {
       "title": "Monday Heavy Lower: Squat Strength & Metabolic Power",
@@ -1271,6 +1224,52 @@
             "3 sets: 12 Hanging Knee Raises (performed from the squat rig, focus on slow eccentric)",
             "3 sets: 15 V-ups (standard bodyweight)",
             "Rest 90s between sets"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-01T00:59:57.432Z",
+    "plan": {
+      "title": "Heavy Upper: Wide-Grip Power & Shoulder Stability",
+      "focus": "High-intensity upper body pressing and pulling with a functional engine-building finisher.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 rounds: 15 Seated Red Band Diagonal Pull-aparts (pulling from top-left to bottom-right, then switch)",
+            "2 rounds: 15 Scapular Push-ups (focus on protraction/retraction without bending elbows)",
+            "2 rounds: 40 Mountain Climbers (fast pace)",
+            "1 min Child’s Pose to Cobra stretch",
+            "Rest 60s between rounds."
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "28 min",
+          "exercises": [
+            "Wide-Grip Barbell Bench Press: 5 sets x 5 reps @ 175-195 lbs (index fingers on the knurling rings; focus on chest recruitment). Rest 90s between sets.",
+            "Rest 2 min before next movement.",
+            "Single-Arm DB Row: 4 sets x 10 reps per side @ 50 lb DB (keep back flat, pull elbow to hip). Rest 90s between sets.",
+            "Rest 3 min before conditioning."
+          ]
+        },
+        {
+          "name": "Conditioning (Metcon)",
+          "duration": "22 min",
+          "exercises": [
+            "15-minute AMRAP (As Many Rounds As Possible):",
+            "50 Double-unders (or 100 Single-unders)",
+            "12 DB snatches (from floor, no overhead lock-out — catch at shoulder) @ 50 lb DB (alternating)",
+            "15 Hand-release push-ups (chest to floor, lift hands briefly at bottom)",
+            "12 DB Goblet squats @ 50 lb DB",
+            "15 Lying Leg Raises (lower back pressed into floor)",
+            "Constraint: Unvested session for maximum speed and intensity.",
+            "Rest 2-3 minutes after the AMRAP to cool down."
           ]
         }
       ]
