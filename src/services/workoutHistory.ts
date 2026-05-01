@@ -7,8 +7,13 @@ const MAX_PER_USER = 30;
 
 function readAll(): WorkoutHistoryEntry[] {
     if (!fs.existsSync(HISTORY_PATH)) return [];
-    const raw = fs.readFileSync(HISTORY_PATH, "utf-8");
-    return JSON.parse(raw);
+    const raw = fs.readFileSync(HISTORY_PATH, "utf-8").trim();
+    if (!raw) return [];
+    try {
+        return JSON.parse(raw);
+    } catch {
+        return [];
+    }
 }
 
 function writeAll(entries: WorkoutHistoryEntry[]): void {
