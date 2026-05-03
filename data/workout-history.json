@@ -46,5 +46,47 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-03T02:28:47.709Z",
+    "plan": {
+      "title": "Saturday Zone 2 Endurance & Core",
+      "focus": "Sustained low-intensity steady-state cardio (HR 120-140 bpm) utilizing the weighted vest for increased caloric burn and postural strength.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 min easy Jump Rope (single unders)",
+            "2 rounds: 15 Band Pull-aparts (red band)",
+            "2 rounds: 15 Band Dislocates (red band)",
+            "2 rounds: 12 Dead Bugs (slow and controlled)"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "45 min",
+          "exercises": [
+            "Wear 20 lb weighted vest for the entire duration of this block.",
+            "25 min BikeErg @ moderate pace (maintain 120-140 bpm).",
+            "20 min Walking Treadmill (flat) or Outdoor Walk @ 3.0-3.5 mph (maintain 120-140 bpm).",
+            "Note: Transition directly from bike to walk without removing the vest."
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "7 min",
+          "exercises": [
+            "Rest 2 min after cardio, remove weighted vest.",
+            "3 sets: 15 Hanging Knee Raises (from squat rig)",
+            "3 sets: 20 Bicycle Crunches",
+            "3 sets: 30 second Hollow Hold",
+            "Rest 60s between sets."
+          ]
+        }
+      ]
+    }
   }
 ]
