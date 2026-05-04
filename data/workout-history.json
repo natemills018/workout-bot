@@ -88,5 +88,55 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-04T16:41:51.434Z",
+    "plan": {
+      "title": "Monday Heavy Lower: Back Squat Focus",
+      "focus": "High-intensity squat strength followed by a CrossFit-style AMRAP emphasizing posterior chain and core stability.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 min Jump Rope (Single Unders)",
+            "2 rounds: 15 Red Banded Rows (seated on floor)",
+            "2 rounds: 15 Red Band Face Pulls (attached to rig at eye level)",
+            "2 rounds: 20 Air Squats + 10 Alternating Bird-Dogs"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Back Squat: 2 warm-up sets (10 reps @ empty bar, 8 reps @ 50% target)",
+            "Barbell Back Squat: 5 sets x 5 reps @ 75-80% 1RM (Max 225 lbs)",
+            "Rest 90s between sets, 3 min before conditioning"
+          ]
+        },
+        {
+          "name": "Conditioning (Metcon)",
+          "duration": "15 min",
+          "exercises": [
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "10 Dumbbell Power Cleans (50 lb DB, alternating arms - catch at shoulder)",
+            "20 Alternating Reverse Lunges (Bodyweight)",
+            "15 V-ups (Slow and controlled)",
+            "40 Double-unders (or 80 Single-unders)"
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "duration": "7 min",
+          "exercises": [
+            "2 min Calf Stretch (against rig)",
+            "2 min Pigeon Stretch per side",
+            "1 min Child’s Pose"
+          ]
+        }
+      ]
+    }
   }
 ]
