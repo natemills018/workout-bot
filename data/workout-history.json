@@ -138,5 +138,48 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-06T01:06:16.633Z",
+    "plan": {
+      "title": "Upper Body Push/Pull Volume & Engine",
+      "focus": "Horizontal push and pull strength development followed by a high-intensity aerobic finisher.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "8 min",
+          "exercises": [
+            "2 rounds: 200m light run or 1 min moderate BikeErg",
+            "2 rounds: 15 Red Band Face Pulls",
+            "2 rounds: 15 Red Banded Rows (standing)",
+            "2 rounds: 15 Sit-ups",
+            "2 rounds: 10 Scapular Push-ups"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Floor Press: 4 sets x 10 reps @ 135-155 lbs (Rest 90s between sets, 2 min before next movement)",
+            "Single-Arm Dumbbell Row: 3 sets x 12 reps per side @ 50 lb DB (Rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "22 min",
+          "exercises": [
+            "AMRAP 15 minutes:",
+            "12 Dumbbell Snatches (alternating, catch at shoulder due to low ceiling) @ 35 lb DB",
+            "12 Burpees",
+            "40 Double-unders (or 80 Single-unders)",
+            "20 Russian Twists (total) @ 25 lb DB",
+            "Rest 2 minutes post-AMRAP",
+            "Finisher: 3 sets of 30-second L-sit hold (using bench or floor) - Rest 60s between sets"
+          ]
+        }
+      ]
+    }
   }
 ]
