@@ -181,5 +181,42 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-06T13:22:02.152Z",
+    "plan": {
+      "title": "Zone 2 Cardiovascular Endurance Session",
+      "focus": "Sustained aerobic capacity building maintaining a heart rate of 120-140 bpm while incorporating functional core movement.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "5 min light BikeErg (steady pace)",
+            "3 sets: 15 Band Face Pulls (red band)",
+            "3 sets: 15 Windshield Wipers (lying on floor, slow control)"
+          ]
+        },
+        {
+          "name": "Zone 2 Sustained Work",
+          "duration": "40 min",
+          "exercises": [
+            "20 min Concept 2 BikeErg @ steady pace (Target 120-140 bpm)",
+            "20 min Outdoor Walk or Treadmill Walk (flat) @ 3.0-3.5 mph (Target 120-140 bpm)",
+            "Note: Perform entire 40-minute block wearing the 20 lb weighted vest to increase aerobic demand without spiking heart rate above Zone 2 thresholds."
+          ]
+        },
+        {
+          "name": "Core Finishing Work",
+          "duration": "10 min",
+          "exercises": [
+            "3 sets: 20 V-ups (Rest 60s between sets)",
+            "3 sets: 15 Flutter Kicks (per leg, focus on lower ab engagement, Rest 60s between sets)"
+          ]
+        }
+      ]
+    }
   }
 ]
