@@ -260,5 +260,49 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-08T17:34:40.006Z",
+    "plan": {
+      "title": "Friday: Lower Hypertrophy & Vested Engine",
+      "focus": "High-volume posterior chain and quad work followed by a weighted-vest metcon.",
+      "totalDuration": "58 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "2 min Jump Rope (Single-unders)",
+            "2 rounds: 15 Red Banded Rows (anchor to rig), 15 Red Banded Good Mornings, 10 Barbell Ab-wheel Rollouts (slow and controlled)",
+            "2 rounds: 15 Air Squats, 10 Alternating Bird-Dogs"
+          ]
+        },
+        {
+          "name": "Strength & Hypertrophy",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Stiff-Leg Deadlift: 4 sets x 12 reps @ 135-155 lbs (Maintain slight bend in knees, focus on hamstring stretch and glute squeeze at the top)",
+            "Rest 90s between sets, 2 min before next movement",
+            "DB Front-Rack Reverse Lunges: 3 sets x 10 reps per leg @ pair of 25 lb DBs (Hold DBs at shoulders)",
+            "Rest 90s between sets, 3 min before conditioning (Prep 20 lb vest and 50 lb DB)"
+          ]
+        },
+        {
+          "name": "Conditioning (HIIT)",
+          "duration": "23 min",
+          "exercises": [
+            "Wear 20 lb Weighted Vest for the entire duration of this block.",
+            "AMRAP 15 Minutes:",
+            "- 10 DB Goblet Squats (50 lb DB)",
+            "- 10 Burpees",
+            "- 15 Calorie BikeErg",
+            "- 20 Sit-ups",
+            "Rest 3 min, then remove vest.",
+            "Cooldown: 5 min slow walk on treadmill (flat) or outdoor walk."
+          ]
+        }
+      ]
+    }
   }
 ]
