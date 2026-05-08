@@ -218,5 +218,47 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-08T00:59:23.689Z",
+    "plan": {
+      "title": "Thursday Heavy Upper: Bench & Power Cleans",
+      "focus": "Heavy horizontal pressing and pulling strength followed by a high-intensity CrossFit-style power metcon.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "2 min BikeErg (Easy pace)",
+            "2 rounds: 15 Banded Rows (Red resistance band, pull to chest)",
+            "2 rounds: 15 Leg Raises (Lying on floor, slow control)",
+            "2 rounds: 10 Scapular Push-ups",
+            "2 rounds: 10 Cat-Cow stretches"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Bench Press: 5 sets x 5 reps @ 155-185 lbs (Rest 90s between sets, 2 min before next movement)",
+            "Barbell Bent-Over Row (Underhand Grip): 4 sets x 8 reps @ 115-135 lbs (Rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "15 Minute AMRAP (As Many Rounds As Possible):",
+            "8 Barbell Power Cleans (95-115 lbs - catch at shoulders, no overhead)",
+            "12 Hand-Release Push-ups",
+            "20 Sit-ups (Abmat style or butterfly)",
+            "40 Double-unders (or 80 Single-unders if unable to DU)",
+            "Note: No weighted vest for this piece to prioritize speed and movement quality. Rest 2-3 min after completion."
+          ]
+        }
+      ]
+    }
   }
 ]
