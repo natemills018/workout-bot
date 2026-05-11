@@ -304,5 +304,48 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-11T16:45:51.950Z",
+    "plan": {
+      "title": "Monday Heavy Lower: Front Squat Strength & Engine",
+      "focus": "Building quad-dominant strength with Front Squats and a high-intensity metcon focusing on unilateral volume and core stability.",
+      "totalDuration": "55 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "2 minutes Jump Rope (single unders)",
+            "2 rounds: 15 Red Banded Rows (focus on scapular retraction)",
+            "2 rounds: 12 Sit-ups",
+            "2 rounds: 10 Goblet Squats @ 35 lb DB",
+            "1 round: 10 Cat-Cow stretches + 30 seconds/side ankle mobility stretch"
+          ]
+        },
+        {
+          "name": "Strength",
+          "duration": "25 min",
+          "exercises": [
+            "Barbell Front Squat: 2 warm-up sets (10 reps @ empty bar, 8 reps @ 95 lbs)",
+            "Barbell Front Squat: 5 sets x 5 reps @ 135-225 lbs (Rest 90s between sets, 2 min before next movement)",
+            "Dumbbell Step-ups to Bench: 3 sets x 10 reps per leg @ pair of 25 lb DBs (Rest 90s between sets, 3 min before conditioning)"
+          ]
+        },
+        {
+          "name": "Conditioning",
+          "duration": "20 min",
+          "exercises": [
+            "15-Minute AMRAP (As Many Rounds As Possible):",
+            "12 Calorie BikeErg",
+            "10 Dumbbell Snatches @ 35 lb (alternate arms, catch at shoulder due to low ceiling)",
+            "15 Bodyweight Air Squats",
+            "8 Barbell Ab-Wheel Rollouts (use the 225 lb setup or lighter barbell)",
+            "Rest 2-3 minutes after AMRAP is complete for cool-down and equipment teardown"
+          ]
+        }
+      ]
+    }
   }
 ]
