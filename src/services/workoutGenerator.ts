@@ -3,8 +3,8 @@ import config from "../config";
 import { UserProfile, WorkoutPlan } from "../types/workout";
 
 const genAI = new GoogleGenerativeAI(config.gemini.apiKey);
-const primaryModel = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
-const fallbackModel = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite-preview" });
+const primaryModel = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite" });
+const fallbackModel = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
 
 const SYSTEM_PROMPT = `You are a strength and conditioning coach generating daily workout plans.
 

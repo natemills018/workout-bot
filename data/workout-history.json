@@ -347,5 +347,48 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-13T16:34:19.920Z",
+    "plan": {
+      "title": "Wednesday Zone 2 Aerobic Base & Core Stability",
+      "focus": "Sustained low-intensity steady-state (LISS) cardio to build aerobic capacity and core endurance.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "3 rounds for quality:",
+            "20 Banded Rows (seated on floor, red band around rig feet)",
+            "10 Lateral Shuffles per side (stay low, maintain control)",
+            "10 Bird-Dogs per side (slow and controlled, focus on balance)",
+            "1 min Easy BikeErg"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Cardio",
+          "duration": "40 min",
+          "exercises": [
+            "20 min Concept 2 BikeErg @ steady pace (Target HR 120-140 bpm)",
+            "20 min Outdoor Run/Jog or Flat Treadmill Walk @ 3.5 mph (Target HR 120-140 bpm)",
+            "Note: Maintain a conversational pace throughout. This session is unvested to allow for consistent movement mechanics compared to previous weighted sessions.",
+            "Rest 2 min before core finisher."
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "3 sets for quality:",
+            "10 Barbell Ab-Wheel Rollouts (kneeling, using barbell with 10-25lb plates)",
+            "20 Russian Twists @ 25 lb DB (total reps, feet off floor)",
+            "15 Lying Leg Raises (lower back pressed firmly into floor)",
+            "Rest 90s between sets."
+          ]
+        }
+      ]
+    }
   }
 ]
