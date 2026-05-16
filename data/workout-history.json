@@ -390,5 +390,45 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-16T14:17:36.356Z",
+    "plan": {
+      "title": "Zone 2 Aerobic Foundation and Core Integrity",
+      "focus": "Sustained Zone 2 cardio with varied core stabilization",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "5 min light BikeErg (steady pace)",
+            "3 sets: 15 Band Dislocates (red band)",
+            "3 sets: 15 Band Pull-Aparts (red band)",
+            "2 sets: 10 Air Squats (focus on depth and posture)"
+          ]
+        },
+        {
+          "name": "Sustained Zone 2 Aerobic Base",
+          "duration": "40 min",
+          "exercises": [
+            "20 min Concept 2 BikeErg @ steady pace (Target 120-140 bpm)",
+            "20 min Flat Treadmill Walk @ 3.2-3.5 mph (Target 120-140 bpm)",
+            "Note: Perform entire 40-minute block wearing 20 lb weighted vest to increase aerobic intensity while maintaining Zone 2 heart rate."
+          ]
+        },
+        {
+          "name": "Core Stability Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "3 sets: 15 Hanging Knee Raises (from squat rig)",
+            "3 sets: 30-second Hollow Hold (arms extended overhead)",
+            "3 sets: 10 Bicycle Crunches per side (controlled tempo)",
+            "Rest 60s between sets"
+          ]
+        }
+      ]
+    }
   }
 ]
