@@ -430,5 +430,44 @@
         }
       ]
     }
+  },
+  {
+    "discordId": "181102159885107200",
+    "date": "2026-05-27T13:05:12.741Z",
+    "plan": {
+      "title": "Zone 2 Cardiovascular Base & Core Stability",
+      "focus": "Aerobic capacity development and core endurance with minimal equipment.",
+      "totalDuration": "60 min",
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "duration": "10 min",
+          "exercises": [
+            "5 min gentle BikeErg (steady, easy pace)",
+            "3 sets: 15 banded face pulls (red band)",
+            "3 sets: 10 mountain climbers (per leg, slow, controlled pace)"
+          ]
+        },
+        {
+          "name": "Zone 2 Endurance Block",
+          "duration": "40 min",
+          "exercises": [
+            "20 min Concept 2 BikeErg @ 120-140 bpm (steady, conversational pace)",
+            "20 min flat treadmill walk @ 3.0-3.5 mph @ 120-140 bpm (steady, conversational pace)",
+            "Note: Perform the entire 40-minute cardio block UNVESTED to prioritize steady-state recovery."
+          ]
+        },
+        {
+          "name": "Core Finisher",
+          "duration": "10 min",
+          "exercises": [
+            "3 sets of the following circuit (Rest 60s between sets):",
+            "15 Dead bugs (slow, controlled, lower back glued to floor)",
+            "15 Windshield wipers (lying on floor, hands planted for stability)",
+            "15 Sit-ups (full range of motion)"
+          ]
+        }
+      ]
+    }
   }
 ]
